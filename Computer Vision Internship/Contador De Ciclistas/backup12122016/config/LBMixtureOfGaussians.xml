@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<sensitivity>86</sensitivity>
+<bgThreshold>93</bgThreshold>
+<learningRate>119</learningRate>
+<noiseVariance>356</noiseVariance>
+<showOutput>0</showOutput>
+</opencv_storage>

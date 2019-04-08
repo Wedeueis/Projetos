@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1471574608 source:c:\users\wedeu\documents\projetoscg\projetofinal\main.cpp
+	<GL/glew.h>
+	"EventHandler.h"
+
+1471570466 c:\users\wedeu\documents\projetoscg\projetofinal\include\gl\glut.h
+	"freeglut_std.h"
+
+1471570466 c:\users\wedeu\documents\projetoscg\projetofinal\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1466874920 c:\users\wedeu\documents\projetoscg\projetofinal\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1471575567 c:\users\wedeu\documents\projetoscg\projetofinal\include\eventhandler.h
+	<gl/glut.h>
+	<iostream>
+

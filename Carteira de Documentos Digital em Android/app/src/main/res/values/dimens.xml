@@ -1,0 +1,41 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- Common dimensions -->
+    <dimen name="activity_text_box_width">250dp</dimen>
+    <dimen name="activity_text_box_height">40dp</dimen>
+    <dimen name="activity_button_width">250dp</dimen>
+    <dimen name="activity_button_height">40dp</dimen>
+    <dimen name="activity_button2_width">150dp</dimen>
+    <dimen name="activity_subscript_width">250dp</dimen>
+    <dimen name="activity_edit_text_height">40dp</dimen>
+    <dimen name="activity_distance_between_text_boxes">5dp</dimen>
+    <dimen name="activity_distance_between_text_box_button">40dp</dimen> <!--60dp-->
+
+    <!-- Dimensions of the Login layout -->
+    <dimen name="activity_login_distance_between_text_box_title">80dp</dimen>
+    <dimen name="activity_login_margin_top_title">80dp</dimen> <!--80dp-->
+
+    <!-- Dimensions of the Register layout -->
+    <dimen name="activity_register_margin_top">100dp</dimen> <!--100dp-->
+
+    <!-- Dimensions of the New Document layout -->
+    <dimen name="activity_new_document_margin_top">20dp</dimen> <!--50dp-->
+
+    <!-- Dimensions of the Edit Document layout -->
+    <dimen name="activity_edit_document_margin_top">50dp</dimen> <!--50dp-->
+
+    <!-- Dimensions of the Detail layout -->
+    <dimen name="activity_detail_distance_between_subtitle_title">1dp</dimen>
+    <dimen name="activity_detail_distance_between_data">7dp</dimen>
+
+    <!-- Text sizes -->
+    <dimen name="activity_login_appname">34sp</dimen>
+    <dimen name="activity_text_box">16sp</dimen>
+    <dimen name="activity_subscript">12sp</dimen>
+    <dimen name="activity_button">14sp</dimen>
+
+    <dimen name="qrcode_margin">16dp</dimen>
+</resources>

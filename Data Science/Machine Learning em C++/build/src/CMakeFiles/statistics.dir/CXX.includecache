@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wedeueis/Documentos/ufabc/am/programas/machine_learning/inc/statistics.hpp
+vector
+-
+cmath
+-
+algorithm
+-
+iostream
+-
+
+/home/wedeueis/Documentos/ufabc/am/programas/machine_learning/src/statistics.cpp
+../inc/statistics.hpp
+/home/wedeueis/Documentos/ufabc/am/programas/machine_learning/inc/statistics.hpp
+

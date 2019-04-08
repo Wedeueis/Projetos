@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wall -std=gnu++0x   CMakeFiles/main.dir/main.cpp.o  -o main -rdynamic libdata.a libstatistics.a libdata.a libstatistics.a 

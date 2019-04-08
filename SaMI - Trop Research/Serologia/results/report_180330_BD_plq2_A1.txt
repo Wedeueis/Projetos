@@ -1,0 +1,28 @@
+====================================================================================
+Report generated at 2019-04-03 11:34:45.486501 for image: 180330_BD_plq2_A1
+====================================================================================
+Reference values:
+====================================================================================
+Visible value: 63.25
+Cut off value: 55.29
+Medium value: 59.22 +-19.0
+Positive control value: 67.32
+====================================================================================
+Antigen classification: 
+====================================================================================
+Antigen 1 mean color: 51.76 score 2.
+Antigen 2 mean color: 71.18 score 3.
+Antigen 3 mean color: 64.31 score 2.
+Antigen 4 mean color: 52.55 score 2.
+Antigen 5 mean color: 43.92 score 2.
+Antigen 6 mean color: 67.84 score 3.
+Antigen 7 mean color: 60.78 score 2.
+Antigen 8 mean color: 24.71 score 0.
+Antigen 9 mean color: 47.84 score 2.
+Antigen 10 mean color: 21.37 score 0.
+Antigen 11 mean color: 59.41 score 2.
+Antigen 12 mean color: 21.76 score 0.
+Antigen 13 mean color: 22.94 score 0.
+Antigen 14 mean color: 68.24 score 3.
+Antigen 15 mean color: 22.35 score 0.
+====================================================================================

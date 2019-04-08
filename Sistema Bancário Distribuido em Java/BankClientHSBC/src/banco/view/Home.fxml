@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="AnchorPane" prefHeight="350.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1" fx:controller="banco.view.HomeController">
+   <children>
+      <Label text="Bem-vindo ao Banco HSBC" AnchorPane.leftAnchor="5.0" AnchorPane.topAnchor="5.0">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <JFXButton fx:id="saldoButton" layoutX="75.0" layoutY="83.0" onAction="#handleSaldo" prefHeight="51.0" prefWidth="211.0" style="-fx-background-color: #f44336;" text="Saldo" textFill="WHITE" AnchorPane.leftAnchor="75.0" AnchorPane.topAnchor="83.0">
+         <font>
+            <Font name="System Bold" size="22.0" />
+         </font>
+      </JFXButton>
+      <JFXButton fx:id="depositoButton" layoutX="75.0" layoutY="144.0" onAction="#handleDeposito" prefHeight="51.0" prefWidth="211.0" style="-fx-background-color: #f44336;" text="Deposito" textFill="WHITE" AnchorPane.leftAnchor="75.0" AnchorPane.topAnchor="144.0">
+         <font>
+            <Font name="System Bold" size="22.0" />
+         </font>
+      </JFXButton>
+      <JFXButton fx:id="saqueButton" layoutX="75.0" layoutY="205.0" onAction="#handleSaque" prefHeight="51.0" prefWidth="211.0" style="-fx-background-color: #f44336;" text="Saque" textFill="WHITE" AnchorPane.leftAnchor="75.0" AnchorPane.topAnchor="205.0">
+         <font>
+            <Font name="System Bold" size="22.0" />
+         </font>
+      </JFXButton>
+      <JFXButton fx:id="transfButton" layoutX="337.0" layoutY="88.0" onAction="#handleTransferencia" prefHeight="51.0" prefWidth="211.0" style="-fx-background-color: #f44336;" text="Transferencia" textFill="WHITE" AnchorPane.rightAnchor="75.0" AnchorPane.topAnchor="83.0">
+         <font>
+            <Font name="System Bold" size="22.0" />
+         </font>
+      </JFXButton>
+      <JFXButton fx:id="tedButton" layoutX="317.0" layoutY="148.0" onAction="#handleTED" prefHeight="51.0" prefWidth="211.0" style="-fx-background-color: #f44336;" text="TED" textFill="WHITE" AnchorPane.rightAnchor="75.0" AnchorPane.topAnchor="144.0">
+         <font>
+            <Font name="System Bold" size="22.0" />
+         </font>
+      </JFXButton>
+      <JFXButton fx:id="extratoButton" layoutX="319.0" layoutY="216.0" onAction="#handleExtrato" prefHeight="51.0" prefWidth="211.0" style="-fx-background-color: #f44336;" text="Extrato" textFill="WHITE" AnchorPane.rightAnchor="75.0" AnchorPane.topAnchor="205.0">
+         <font>
+            <Font name="System Bold" size="22.0" />
+         </font>
+      </JFXButton>
+   </children>
+</AnchorPane>

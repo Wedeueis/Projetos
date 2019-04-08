@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_detail_cpf"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="br.edu.ufabc.padm.projetopadm.view.CreateDocumentActivity">
+
+    <!-- Name document label -->
+    <TextView android:id="@+id/detail_cpf_name_label"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:gravity="center_vertical"
+        android:text="@string/detailrg_name_label"
+        android:textSize="@dimen/activity_subscript"
+        android:textColor="@color/colorSubtitle"/>
+
+    <!-- Type document -->
+    <TextView android:id="@+id/detail_cpf_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/activity_detail_distance_between_subtitle_title"
+        android:layout_below="@id/detail_cpf_name_label"
+        android:gravity="center_vertical"
+        android:textSize="@dimen/activity_text_box"
+        android:textColor="@color/colorTittle"
+        android:textStyle="bold"/>
+
+    <!-- Number document label -->
+    <TextView android:id="@+id/detail_cpf_number_label"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/detail_cpf_name"
+        android:layout_marginTop="@dimen/activity_detail_distance_between_data"
+        android:gravity="center_vertical"
+        android:text="@string/detailcpf_number_label"
+        android:textSize="@dimen/activity_subscript"
+        android:textColor="@color/colorSubtitle"/>
+
+    <!-- Number document -->
+    <TextView android:id="@+id/detail_cpf_number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/detail_cpf_number_label"
+        android:layout_marginTop="@dimen/activity_detail_distance_between_subtitle_title"
+        android:gravity="center_vertical"
+        android:textSize="@dimen/activity_text_box"
+        android:textColor="@color/colorTittle"
+        android:textStyle="bold"/>
+
+    <!-- Birth date document label -->
+    <TextView android:id="@+id/detail_cpf_birth_label"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/detail_cpf_number"
+        android:layout_marginTop="@dimen/activity_detail_distance_between_data"
+        android:gravity="center_vertical"
+        android:text="@string/detailrg_birth_label"
+        android:textSize="@dimen/activity_subscript"
+        android:textColor="@color/colorSubtitle"/>
+
+    <!-- Birth date name document -->
+    <TextView android:id="@+id/detail_cpf_birth"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/detail_cpf_birth_label"
+        android:layout_marginTop="@dimen/activity_detail_distance_between_subtitle_title"
+        android:gravity="center_vertical"
+        android:textSize="@dimen/activity_text_box"
+        android:textColor="@color/colorTittle"
+        android:textStyle="bold"/>
+
+    <!-- Emission date document label -->
+    <TextView android:id="@+id/detail_cpf_emission_label"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/detail_cpf_birth"
+        android:layout_marginTop="@dimen/activity_detail_distance_between_data"
+        android:gravity="center_vertical"
+        android:text="@string/detailcpf_emission_label"
+        android:textSize="@dimen/activity_subscript"
+        android:textColor="@color/colorSubtitle"/>
+
+    <!-- Birth date name document -->
+    <TextView android:id="@+id/detail_cpf_emission"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/detail_cpf_emission_label"
+        android:layout_marginTop="@dimen/activity_detail_distance_between_subtitle_title"
+        android:gravity="center_vertical"
+        android:textSize="@dimen/activity_text_box"
+        android:textColor="@color/colorTittle"
+        android:textStyle="bold"/>
+
+    <ImageView
+        android:id="@+id/cpf_image"
+        android:layout_width="320dp"
+        android:layout_height="180dp"
+        android:layout_centerHorizontal="true"
+        app:srcCompat="@drawable/cpf"
+        android:layout_alignParentBottom = "true"
+        android:adjustViewBounds="true" />
+
+
+</RelativeLayout>

@@ -1,0 +1,4 @@
+#!/bin/bash
+
+nohup geany &
+find . -iregex ".*\.\(hpp\|cpp\)" -exec geany {} \;

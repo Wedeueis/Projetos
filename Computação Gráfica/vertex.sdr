@@ -1,0 +1,25 @@
+#version 440
+layout(location=0) in vec3 in_Position;
+layout(location=1) in vec3 in_Color;
+layout(location=2) in vec3 in_Normal;
+
+layout(location=3) uniform mat4 MVP;
+layout(location=4) uniform vec4 light;
+layout(location=5) uniform vec3 in_V;
+
+layout(location=6) uniform vec3 coef;
+layout(location=7) uniform vec2 exp;
+
+out vec3 ex_Color;
+out vec3 ex_Norm;
+out vec3 ex_Lightvec;
+out float ex_logDist;
+
+void main(void) {
+	gl_Position = MVP*vec4(in_Position, 1.0);
+	ex_Norm = (MVP * vec4(in_Normal, 0.0)).xyz;
+	ex_Lightvec = light.xyz - gl_Position.xyz;
+	ex_logDist = log(max(distance(light.xyz,gl_Position.xyz),5.0))/3.5;
+	ex_Color = in_Color;
+	gl_Position.z /= 100;
+}

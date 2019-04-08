@@ -1,0 +1,4 @@
+/home/wedeueis/Documentos/OCR/code-master/Chapter5_NumberPlateRecognition/build/CMakeFiles/trainSVM.dir
+/home/wedeueis/Documentos/OCR/code-master/Chapter5_NumberPlateRecognition/build/CMakeFiles/trainOCR.dir
+/home/wedeueis/Documentos/OCR/code-master/Chapter5_NumberPlateRecognition/build/CMakeFiles/ANPR.dir
+/home/wedeueis/Documentos/OCR/code-master/Chapter5_NumberPlateRecognition/build/CMakeFiles/evalOCR.dir

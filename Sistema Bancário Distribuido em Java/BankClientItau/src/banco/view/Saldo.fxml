@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="AnchorPane" prefHeight="350.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1" fx:controller="banco.view.SaldoController">
+   <children>
+      <AnchorPane prefHeight="200.0" prefWidth="200.0" style="-fx-background-color: #eeeeee;" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="400.0" AnchorPane.topAnchor="0.0">
+         <children>
+            <JFXButton fx:id="saldoButton" disable="true" layoutY="2.0" prefHeight="57.0" prefWidth="200.0" style="-fx-background-color: #709cf4;" text="Saldo" textFill="WHITE">
+               <font>
+                  <Font name="System Bold" size="21.0" />
+               </font>
+            </JFXButton>
+            <JFXButton layoutY="60.0" onAction="#handleDeposito" prefHeight="57.0" prefWidth="200.0" style="-fx-background-color: #709cf4;" text="Deposito" textFill="WHITE">
+               <font>
+                  <Font name="System Bold" size="21.0" />
+               </font>
+            </JFXButton>
+            <JFXButton layoutY="118.0" onAction="#handleSaque" prefHeight="57.0" prefWidth="200.0" style="-fx-background-color: #709cf4;" text="Saque" textFill="WHITE">
+               <font>
+                  <Font name="System Bold" size="21.0" />
+               </font>
+            </JFXButton>
+            <JFXButton layoutY="176.0" onAction="#handleTransferencia" prefHeight="57.0" prefWidth="200.0" style="-fx-background-color: #709cf4;" text="Transferencia" textFill="WHITE">
+               <font>
+                  <Font name="System Bold" size="21.0" />
+               </font>
+            </JFXButton>
+            <JFXButton layoutY="234.0" onAction="#handleTED" prefHeight="57.0" prefWidth="200.0" style="-fx-background-color: #709cf4;" text="TED" textFill="WHITE">
+               <font>
+                  <Font name="System Bold" size="21.0" />
+               </font>
+            </JFXButton>
+            <JFXButton layoutY="292.0" onAction="#handleExtrato" prefHeight="57.0" prefWidth="200.0" style="-fx-background-color: #709cf4;" text="Extrato" textFill="WHITE">
+               <font>
+                  <Font name="System Bold" size="21.0" />
+               </font>
+            </JFXButton>
+         </children>
+      </AnchorPane>
+      <AnchorPane layoutX="319.0" layoutY="59.0" prefHeight="200.0" prefWidth="200.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="200.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <children>
+            <Label alignment="CENTER" layoutX="50.0" layoutY="46.0" prefHeight="50.0" prefWidth="247.0" text="Voce possui o seguinte saldo:" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="40.0">
+               <font>
+                  <Font name="Asana Math" size="21.0" />
+               </font>
+            </Label>
+            <Label fx:id="saldoLabel" alignment="CENTER" layoutX="120.0" layoutY="143.0" prefHeight="40.0" prefWidth="80.0" AnchorPane.bottomAnchor="140.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="170.0">
+               <font>
+                  <Font name="System Bold" size="18.0" />
+               </font>
+            </Label>
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_edit_document"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="br.edu.ufabc.padm.projetopadm.view.UpdateDocumentActivity">
+
+    <!-- nome do portador do documento -->
+    <EditText android:id="@+id/edit_carteirinha_name"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/activity_edit_text_height"
+        android:layout_centerHorizontal="true"
+        android:hint="@string/edit_document_name"
+        android:inputType="textPersonName"
+        android:gravity="center_vertical"
+        android:textSize="@dimen/activity_text_box" />
+
+      <!-- Curso -->
+      <EditText android:id="@+id/edit_carteirinha_course"
+          android:layout_width="match_parent"
+          android:layout_height="@dimen/activity_edit_text_height"
+          android:layout_centerHorizontal="true"
+          android:layout_below="@id/edit_carteirinha_name"
+          android:layout_marginTop="@dimen/activity_distance_between_text_boxes"
+          android:hint="@string/edit_carteirina_course"
+          android:inputType="textPersonName"
+          android:gravity="center_vertical"
+          android:textSize="@dimen/activity_text_box" />
+
+    <!-- número do documento -->
+    <EditText android:id="@+id/edit_carteirinha_number"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/activity_edit_text_height"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/edit_carteirinha_course"
+        android:layout_marginTop="@dimen/activity_distance_between_text_boxes"
+        android:hint="@string/edit_document_number"
+        android:inputType="text"
+        android:gravity="center_vertical"
+        android:textSize="@dimen/activity_text_box" />
+
+    <!-- Universidade -->
+    <EditText android:id="@+id/edit_carteirinha_university"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/activity_edit_text_height"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/edit_carteirinha_number"
+        android:layout_marginTop="@dimen/activity_distance_between_text_boxes"
+        android:hint="@string/edit_carteirina_university"
+        android:inputType="text"
+        android:gravity="center_vertical"
+        android:textSize="@dimen/activity_text_box" />
+
+    <!-- validade -->
+    <EditText android:id="@+id/edit_carteirinha_validity"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/activity_edit_text_height"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/edit_carteirinha_university"
+        android:layout_marginTop="@dimen/activity_distance_between_text_boxes"
+        android:hint="@string/edit_carteirina_validity"
+        android:inputType="date"
+        android:gravity="center_vertical"
+        android:textSize="@dimen/activity_text_box" />
+
+    <!-- Imagem -->
+    <EditText android:id="@+id/edit_carteirinha_image"
+        android:layout_width="220dp"
+        android:layout_height="@dimen/activity_edit_text_height"
+        android:layout_below="@id/edit_carteirinha_validity"
+        android:focusable="false"
+        android:layout_marginTop="@dimen/activity_distance_between_text_boxes"
+        android:hint=""
+        android:inputType="text"
+        android:gravity="center_vertical"
+        android:textSize="@dimen/activity_text_box" />
+
+
+    <!-- Botão para cadastrar -->
+    <Button android:id="@+id/edit_carteirinha_button"
+        android:layout_width="@dimen/activity_button2_width"
+        android:layout_height="@dimen/activity_button_height"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/edit_carteirinha_image"
+        android:layout_marginTop="@dimen/activity_distance_between_text_box_button"
+        android:text="@string/edit_document_button"
+        android:gravity="center"
+        android:textSize="@dimen/activity_button"
+        android:textAllCaps="true"
+        android:textColor="@color/colorButton2_text"
+        android:background="@color/colorButton2_background"/>
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/editget_cartpicture_from_camera"
+        android:src="@android:drawable/ic_menu_camera"
+        android:background="@color/colorButton2_background"
+        android:layout_above="@+id/edit_carteirinha_button"
+        android:layout_toRightOf="@+id/edit_carteirinha_button"
+        android:layout_toEndOf="@+id/edit_carteirinha_button" />
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/editget_cartpicture_from_file"
+        android:src="@android:drawable/ic_menu_gallery"
+        android:background="@color/colorButton2_background"
+        android:layout_alignTop="@+id/editget_cartpicture_from_camera"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginRight="11dp"
+        android:layout_marginEnd="11dp" />
+
+</RelativeLayout>

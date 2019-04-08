@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="290.0" prefWidth="400.0" style="-fx-background-color: #FFFFFF;" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <ScrollPane layoutY="50.0" prefHeight="236.0" prefWidth="400.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0">
+         <content>
+            <AnchorPane prefHeight="336.0" prefWidth="398.0" style="-fx-background-color: #FFFFFF;">
+               <children>
+                  <TextArea editable="false" layoutX="46.0" prefHeight="359.0" prefWidth="398.0" text="data                descriçao&#10;2017-08-07     alugou a bike numero 1 das 17:00 as 19:00&#10;2017-08-08     alugou a bike numero 3 das 17:00 as 19:00&#10;2017-08-09     alugou a bike numero 4 das 17:00 as 19:00&#10;2017-08-10     alugou a bike numero 1 das 17:00 as 19:00&#10;2017-08-11     alugou a bike numero 1 das 17:00 as 19:00&#10;2017-08-12     alugou a bike numero 2 das 17:00 as 19:00&#10;2017-08-14     alugou a bike numero 1 das 10:00 as 16:00&#10;2017-08-15     alugou a bike numero 2 das 17:00 as 19:00&#10;2017-08-16     alugou a bike numero 3 das 17:00 as 19:00&#10;2017-08-17     alugou a bike numero 4 das 17:00 as 19:00&#10;2017-08-18     alugou a bike numero 1 das 17:00 as 19:00&#10;" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0" />
+               </children>
+            </AnchorPane>
+         </content>
+      </ScrollPane>
+      <Label alignment="CENTER" layoutY="20.0" text="Historico" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>

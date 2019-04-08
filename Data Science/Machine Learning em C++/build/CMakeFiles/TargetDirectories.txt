@@ -1,0 +1,7 @@
+/home/wedeueis/Documentos/ufabc/am/programas/machine_learning/build/CMakeFiles/edit_cache.dir
+/home/wedeueis/Documentos/ufabc/am/programas/machine_learning/build/CMakeFiles/rebuild_cache.dir
+/home/wedeueis/Documentos/ufabc/am/programas/machine_learning/build/src/CMakeFiles/edit_cache.dir
+/home/wedeueis/Documentos/ufabc/am/programas/machine_learning/build/src/CMakeFiles/data.dir
+/home/wedeueis/Documentos/ufabc/am/programas/machine_learning/build/src/CMakeFiles/statistics.dir
+/home/wedeueis/Documentos/ufabc/am/programas/machine_learning/build/src/CMakeFiles/main.dir
+/home/wedeueis/Documentos/ufabc/am/programas/machine_learning/build/src/CMakeFiles/rebuild_cache.dir

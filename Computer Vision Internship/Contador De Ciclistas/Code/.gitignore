@@ -1,0 +1,10 @@
+*.o
+*.swp
+*.swo
+*.db
+*.out
+bin
+include/modules
+include/Factory.hpp
+src/Factory.cpp
+doc/gen

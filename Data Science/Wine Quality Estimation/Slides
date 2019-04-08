@@ -1,0 +1,22 @@
+Slides
+
+Apresentação da base de dados
+- Motivação
+- Para que pode ser util
+- Problemas
+
+Metodologia
+- Tratamento dos dados
+- Testes com regressao e classificação
+- Seleção de modelo
+
+Resultado
+- Apresentar os valores de melhores resultado 
+ara classificação para regressão e classificação
+
+Conclusão
+- Possiveis razões para baixos resultados
+ - Má coleta de dados
+ - Desbalance de classes
+ - Distribuição dificil
+ - Fatores não representados na base de dados

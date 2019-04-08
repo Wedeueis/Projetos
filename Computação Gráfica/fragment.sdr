@@ -1,0 +1,24 @@
+#version 440
+
+in vec3 ex_Color;
+in vec3 ex_Norm;
+in vec3 ex_Lightvec;
+in float ex_logDist;
+
+layout(location=4) uniform vec4 light;
+layout(location=5) uniform vec3 in_V;
+layout(location=6) uniform vec3 coef;
+layout(location=7) uniform vec2 exp;
+
+out vec3 out_Color;
+
+void main(void) {
+	vec3 norm = normalize(ex_Norm);
+	vec3 L = normalize(ex_Lightvec);
+	vec3 V = normalize(in_V);
+	float idiffuse = max(dot(L, norm), 0.0);
+	vec3 reflectionVec = (2*dot(norm, L))*norm - L;
+	float specular = max(dot(reflectionVec, V),0.0);
+	float final_li = 1.0*coef.x + (pow(idiffuse,exp.x)*coef.y/(ex_logDist) + pow(specular,exp.y)*coef.z/(2*ex_logDist))*light.w;
+	out_Color = final_li*ex_Color;
+}

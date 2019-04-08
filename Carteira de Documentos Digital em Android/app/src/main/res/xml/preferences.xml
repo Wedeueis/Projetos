@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference
+        android:key="@string/storage_mode_key"
+        android:title="@string/storage_mode"
+        android:summary="@string/storage_intro"
+        android:dialogTitle="@string/storage_mode"
+        android:entries="@array/storage_entries"
+        android:entryValues="@array/storage_values"
+        android:defaultValue="@string/default_storage_mode" />
+</PreferenceScreen>

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<threshold>20.</threshold>
+<alpha>4.9999998882412910e-03</alpha>
+<learningFrames>30</learningFrames>
+<showOutput>0</showOutput>
+</opencv_storage>

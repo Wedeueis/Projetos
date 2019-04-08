@@ -1,0 +1,308 @@
+<resources>
+    <string name="app_name">Identidade Virtual</string>
+
+    <!-- Login layout strings -->
+    <string name="title_activity_login">ID</string>
+    <string name="login_text_box_user">USUÁRIO</string>
+    <string name="login_text_box_password">SENHA</string>
+    <string name="login_button">Entrar</string>
+    <string name="login_subscript">Não é cadastrado? Clique aqui =}</string>
+    <string name="login_subscript2">Esqueci minha senha</string>
+
+    <!-- Register layout strings -->
+    <string name="register_actionBar">Cadastro</string>
+    <string name="register_text_box_name">nome</string>
+    <string name="register_text_box_email">e-mail</string>
+    <string name="register_text_box_user">usuário</string>
+    <string name="register_text_box_password">senha</string>
+    <string name="register_text_box_confirmPassword">confirme a senha</string>
+    <string name="register_button">Cadastrar</string>
+    <string name="new_register_add_success">Cadastro Realizado com sucesso!</string>
+    <string name="new_register_add_failure">Falha ao realizar o cadastro</string>
+    <string name="register_error_empty_name">O nome não pode ser vazio</string>
+    <string name="register_error_empty_email">O email não pode ser vazio</string>
+    <string name="register_error_empty_user">O usuário não pode ser vazio</string>
+    <string name="register_error_empty_password">A senha não pode ser vazio</string>
+    <string name="register_error_empty_confirmPassword">Confirme a senha!</string>
+
+
+    <!-- New Document layout strings -->
+    <string name="new_document_actionBar">Novo Documento</string>
+    <string name="new_document_name">nome completo</string>
+    <string name="new_document_number">número</string>
+    <string name="new_document_father">pai</string>
+    <string name="new_document_mother">mãe</string>
+    <string name="new_document_birth">data de nascimento</string>
+    <string name="new_document_image">imagem</string>
+    <!-- carteirinha -->
+    <string name="new_document_course">curso</string>
+    <string name="new_document_universidade">universidade</string>
+    <string name="new_document_validity">validade</string>
+
+    <string name="new_document_button">Salvar</string>
+    <string name="new_document_add_success">Documento inserido com sucesso!</string>
+    <string name="new_document_add_failure">Houve um problema ao adicionar o documento</string>
+
+    <!-- Edit Document layout strings -->
+    <string name="edit_document_actionBar">Alterar Documento</string>
+    <string name="edit_document_name"></string>
+    <string name="edit_document_number"></string>
+    <string name="edit_document_button">Alterar</string>
+
+    <!-- Detail RG layout strings -->
+    <string name="detailrg_name_label">Nome</string>
+    <string name="detailrg_number_label">Número</string>
+    <!-- Edit RG layout strings -->
+    <string name="edit_document_father"></string>
+    <string name="edit_document_mother"></string>
+    <string name="edit_document_birth"></string>
+    <string name="edit_document_image"></string>
+
+    <!-- Detail Carteirinha layout strings -->
+    <string name="detailcarteirinha_name_label">Nome</string>
+    <string name="detailcarteirinha_course_label">Curso</string>
+    <string name="detailcarteirinha_number_label">Registro Acadêmico</string>
+    <string name="detailcarteirinha_university_label">Universidade</string>
+    <string name="detailcarteirinha_validity_label">Validade</string>
+    <string name="detailcarteirinha_image_label">Image</string>
+    <!-- Edit Carteirinha layout strings -->
+    <string name="edit_carteirina_course"></string>
+    <string name="edit_carteirina_university"></string>
+    <string name="edit_carteirina_validity"></string>
+    <string name="edit_carteirina_image"></string>
+
+
+    <string name="action_settings">Configurar</string>
+    <string name="action_add">Novo Documento</string>
+    <string name="action_remove">Remover Documento</string>
+    <string name="main_title">Início</string>
+    <string name="action_edit">Alterar Documento</string>
+    <string name="detail_title"> RG </string>
+
+    <!-- Qr Code layout strings -->
+    <string name="server_link"> http://www.idvirtual.com/index </string>
+
+    <!--Storage settings -->
+    <string name="storage_intro">Escolha o tipo de armazenamento</string>
+    <string name="internal_storage">Armazenamento interno</string>
+    <string name="external_storage">Armazenamento externo</string>
+    <string name="storage_mode">Modo de armazenamento</string>
+    <string name="default_storage_mode">1</string>
+    <string name="storage_mode_key">storage_mode</string>
+
+    <!-- Database -->
+    <string name="database_name">"idVirtual.db"</string>
+    <string name="failed_create_database">Falha ao criar Banco de Dados</string>
+    <string name="failed_drop_table">Falha ao deletar tabela</string>
+
+    <!-- Documents strings -->
+    <string name="failed_count_documents">Falha ao contar documentos no banco de dados</string>
+    <string name="failed_insert_document">Falha ao inserir documento no banco de dados</string>
+    <string name="failed_list_documents">Falha ao listar documentos</string>
+
+    <!-- Users strings -->
+    <string name="failed_count_users">Falha ao contar usuários no banco de dados</string>
+    <string name="failed_insert_user">Falha ao inserir usuário no banco de dados</string>
+    <string name="failed_find_user">Falha ao procurar usuário</string>
+    <string name="login_success">Redirecionando...</string>
+    <string name="login_failure">Usuário ou senha inválidos!</string>
+    <string name="register_no_match_password">As senhas não são correspondentes</string>
+    <string name="register_user_exist">Usuário já existe</string>
+
+    <!-- Documents queries -->
+    <string name="create_table_documents_query">
+    CREATE TABLE documents (
+        _id INTEGER PRIMARY KEY AUTOINCREMENT,
+        name TEXT NOT NULL,
+        number TEXT NOT NULL
+    );
+    </string>
+    <string name="drop_table_documents_query">
+        DROP TABLE IF EXISTS documents;
+    </string>
+    <string name="count_documents_query">
+        SELECT COUNT(*) AS count FROM documents;
+    </string>
+    <string name="insert_document_query">
+        INSERT INTO documents (name, number) VALUES(?,?);
+    </string>
+    <string name="read_document_query">
+        SELECT * FROM documents WHERE _id=
+    </string>
+    <string name="read_document_by_type_query">
+        SELECT * FROM documents WHERE name=
+    </string>
+    <string name="list_documents_query">
+        SELECT * FROM documents;
+    </string>
+    <string name="update_document_query">
+        UPDATE documents SET name=?, number=? WHERE _id=?;
+    </string>
+    <string name="delete_document_query">
+        DELETE FROM documents WHERE _id=
+    </string>
+
+    <!-- RG queries -->
+    <string name="create_table_rg_query">
+    CREATE TABLE rg (
+        _id INTEGER PRIMARY KEY,
+        name TEXT NOT NULL,
+        number TEXT NOT NULL,
+        father TEXT NOT NULL,
+        mother TEXT NOT NULL,
+        birth TEXT NOT NULL,
+        birthplace TEXT NOT NULL,
+        image TEXT
+    );
+    </string>
+    <string name="drop_table_rg_query">
+        DROP TABLE IF EXISTS rg;
+    </string>
+    <string name="insert_rg_query">
+        INSERT INTO rg (_id, name, number, father, mother, birth, birthplace, image) VALUES(?,?,?,?,?,?,?,?);
+    </string>
+    <string name="read_rg_query">
+        SELECT * FROM rg WHERE _id=
+    </string>
+    <string name="update_rg_query">
+        UPDATE rg SET name=?, number=?, father=?, mother=?, birth=?, birthplace=?, image=? WHERE _id=?;
+    </string>
+    <string name="delete_rg_query">
+        DELETE FROM rg WHERE _id=
+    </string>
+
+    <!-- RG queries -->
+    <string name="create_table_cpf_query">
+        CREATE TABLE cpf (
+            _id INTEGER PRIMARY KEY,
+            name TEXT NOT NULL,
+            number TEXT NOT NULL,
+            birth TEXT NOT NULL,
+            emission TEXT NOT NULL,
+            image TEXT
+        );
+    </string>
+    <string name="drop_table_cpf_query">
+        DROP TABLE IF EXISTS cpf;
+    </string>
+    <string name="insert_cpf_query">
+        INSERT INTO cpf (_id, name, number, birth, emission, image) VALUES(?,?,?,?,?,?);
+    </string>
+    <string name="read_cpf_query">
+        SELECT * FROM cpf WHERE _id=
+    </string>
+    <string name="update_cpf_query">
+        UPDATE cpf SET name=?, number=?, birth=?, emission=?, image=? WHERE _id=?;
+    </string>
+    <string name="delete_cpf_query">
+        DELETE FROM cpf WHERE _id=
+    </string>
+
+    <!-- Carteirinha queries -->
+    <string name="create_table_carteirinha_query">
+    CREATE TABLE carteirinha (
+        _id INTEGER PRIMARY KEY,
+        name TEXT NOT NULL,
+        course TEXT NOT NULL,
+        number TEXT NOT NULL,
+        university TEXT NOT NULL,
+        validity TEXT NOT NULL,
+        image TEXT NOT NULL
+    );
+    </string>
+    <string name="drop_table_carteirinha_query">
+        DROP TABLE IF EXISTS carteirinha;
+    </string>
+    <string name="insert_carteirinha_query">
+        INSERT INTO carteirinha (_id, name, course, number, university, validity, image) VALUES(?,?,?,?,?,?,?);
+    </string>
+    <string name="read_carteirinha_query">
+        SELECT * FROM carteirinha WHERE _id=
+    </string>
+    <string name="update_carteirinha_query">
+        UPDATE carteirinha SET name=?, course=?, number=?, university=?, validity=?, image=? WHERE _id=?;
+    </string>
+    <string name="delete_carteirinha_query">
+        DELETE FROM carteirinha WHERE _id=
+    </string>
+
+    <!-- Users queries -->
+    <string name="create_table_users_query">
+    CREATE TABLE users (
+        _id INTEGER PRIMARY KEY AUTOINCREMENT,
+        name TEXT NOT NULL,
+        email TEXT NOT NULL,
+        user TEXT NOT NULL,
+        password TEXT NOT NULL,
+        confirmPassword TEXT NOT NULL
+    );
+    </string>
+    <string name="drop_table_users_query">
+        DROP TABLE IF EXISTS users;
+    </string>
+    <string name="count_users_query">
+        SELECT COUNT(*) AS count FROM users;
+    </string>
+    <string name="insert_user_query">
+        INSERT INTO users (name, email, user, password, confirmPassword) VALUES(?,?,?,?,?);
+    </string>
+    <string name="list_users_query">
+        SELECT * FROM users;
+    </string>
+    <string name="search_user_query">
+        SELECT * FROM users WHERE user=
+    </string>
+
+
+    <string name="action_getqrcode">Baixar Dados</string>
+    <string name="remove_contact">Documento removido com sucesso</string>
+    <string name="alert_title">Alerta!!!</string>
+    <string name="alert_content">Tem certeza que gostaria de deletar o documento?</string>
+    <string name="alert_yes">SIM</string>
+    <string name="alert_no">NÃO</string>
+    <string name="login_error_empty_user">O nome de usuário não pode ser vazio.</string>
+    <string name="login_error_empty_password">A senha não pode ser vazia.</string>
+    <string name="newdocument_error_empty_name">O nome não pode ser vazio</string>
+    <string name="newdocument_error_empty_number">O número não pode ser vazio.</string>
+    <string name="editdcoument_error_empty_name">O nome não pode ser vazio.</string>
+    <string name="editdcoument_error_empty_number">O número não pode ser vazio.</string>
+    <string name="failed_find_documents">Impossível encontrar o documento</string>
+    <string name="document_update_sucess">Documento alterado com sucesso</string>
+    <string name="failed_update_document">Falha ao alterar documento</string>
+    <string name="newdocument_error_empty">Campo não pode ficar em branco</string>
+    <string name="new_document_birthplace">naturalidade</string>
+    <string name="class_error">Classe não encontrada</string>
+    <string name="controller_request_error">Erro ao processar requisição</string>
+    <string name="controller_create_document_error">Erro no controller ao criar um documento.</string>
+    <string name="controller_read_document_error">Erro no controller ao ler um documento.</string>
+    <string name="detailrg_father_label">Nome do pai</string>
+    <string name="detailrg_mother_label">Nome da mãe</string>
+    <string name="detailrg_birth_label">Data de nascimento</string>
+    <string name="detailrg_birthplace_label">Naturalidade</string>
+    <string name="controller_edit_document_error">Erro no controller ao editar documento.</string>
+    <string name="controller_delete_document_error">Erro no controller ao deletar documentos.</string>
+    <string name="remove_contact_fail">Erro ao remover contato.</string>
+    <string name="context_menu_selected_count">%1$d documentos</string>
+    <string name="detailcpf_number_label">número</string>
+    <string name="new_document_emission">data de emissão</string>
+    <string name="detailcpf_emission_label">data de emissão</string>
+    <string name="detail_cpf_title">CPF</string>
+    <string name="detail_rg_title">RG</string>
+    <string name="update_rg_title">Alterar RG</string>
+    <string name="update_cpf_title">Alterar RG</string>
+    <string name="load">Carregar</string>
+    <string name="get_photo">Camera</string>
+    <string name="image_error">Erro ao carregar imagem.</string>
+    <string name="detail_carteirinha_title">Carteirinha</string>
+    <string name="document_type_title">Escolha um tipo</string>
+    <string name="create_rg_title">Inserir RG</string>
+    <string name="create_cpf_title">Inserir CPF</string>
+    <string name="create_carteirinha_title">Inserir Carteirinha</string>
+    <string name="update_carteirinha_title">Alterar Carteirinha</string>
+    <string name="edit_document_image_failure">Problema ao salvar a imagem.</string>
+    <string name="camera_rationale">Para tirarmos uma foto, precisamos de permissão de acesso à camêra. Por favor, conceda a permissão quando solicitada.</string>
+    <string name="ok">OK</string>
+    <string name="camera_not_allowed">Permissão para acesso a câmera não foi concedida, não será possível obter imagens para os documentos a partir da câmera.</string>
+    <string name="get_image_error">Erro ao obter a imagem.</string>
+    <string name="get_image_cancel">Seleção de imagem cancelada.</string>
+</resources>

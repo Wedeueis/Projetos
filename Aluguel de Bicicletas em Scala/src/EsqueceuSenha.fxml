@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="314.0" prefWidth="370.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ESController">
+   <children>
+      <TextField fx:id="txtES" alignment="CENTER" focusTraversable="false" layoutX="111.0" layoutY="147.0" promptText="Informe seu e-mail" />
+      <Label layoutX="40.0" layoutY="88.0" text="Para recuperar a senha é necessario digitar seu e-mail. " />
+      <Label layoutX="40.0" layoutY="105.0" text="Sua senha será encaminhado para o e-mail informado." />
+      <Button layoutX="160.0" layoutY="200.0" mnemonicParsing="false" text="Enviar" onAction="#btnES_Click"/>
+   </children>
+</AnchorPane>

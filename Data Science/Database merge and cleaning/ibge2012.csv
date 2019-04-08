@@ -1,0 +1,646 @@
+Ano,NomeUF,NomeMunicipio,NomeMeso,Impostos,PIB,Populacao
+2012,São Paulo,Adamantina,Presidente Prudente,62842352,743683942,33843
+2012,São Paulo,Adolfo,São José do Rio Preto,1625.33,53200.27099999999,3538
+2012,São Paulo,Aguaí,Campinas,43701513,568189968,32745
+2012,São Paulo,Águas da Prata,Campinas,5090.532999999999,101169.93199999999,7653
+2012,São Paulo,Águas de Lindóia,Campinas,19694.793999999998,279456212,17438
+2012,São Paulo,Águas de Santa Bárbara,Bauru,6039898,95592614,5658
+2012,São Paulo,Águas de São Pedro,Piracicaba,4232057,81883233,2832
+2012,São Paulo,Agudos,Bauru,386484657,1928539.2880000002,34833
+2012,São Paulo,Alambari,Itapetininga,2273786,60504.84099999999,5071
+2012,São Paulo,Alfredo Marcondes,Presidente Prudente,6209118,53292705,3921
+2012,São Paulo,Altair,São José do Rio Preto,1759604,92633285,3859
+2012,São Paulo,Altinópolis,Ribeirão Preto,16827985,280646809,15627
+2012,São Paulo,Alto Alegre,Araçatuba,1917.1170000000002,80152992,4078
+2012,São Paulo,Alumínio,Macro Metropolitana Paulista,483709.75399999996,1659873166,17079
+2012,São Paulo,Álvares Florence,São José do Rio Preto,1989598,111829.75300000001,3834
+2012,São Paulo,Álvares Machado,Presidente Prudente,33717503,314146275,23642
+2012,São Paulo,Álvaro de Carvalho,Marília,655033,37634491,4732
+2012,São Paulo,Alvinlândia,Marília,781927,34570.751000000004,3025
+2012,São Paulo,Americana,Campinas,1433753.9640000002,8758084098,214873
+2012,São Paulo,Américo Brasiliense,Araraquara,54048526,538860619,35413
+2012,São Paulo,Américo de Campos,São José do Rio Preto,1829.5739999999998,63071858,5723
+2012,São Paulo,Amparo,Campinas,458032492,3014108.8389999997,66649
+2012,São Paulo,Analândia,Araraquara,2777.54,110803.12199999999,4401
+2012,São Paulo,Andradina,Araçatuba,154960219,1861978496,55361
+2012,São Paulo,Angatuba,Itapetininga,62813657,624706514,22650
+2012,São Paulo,Anhembi,Bauru,5430515,102812587,5822
+2012,São Paulo,Anhumas,Presidente Prudente,1141238,53032.594000000005,3788
+2012,São Paulo,Aparecida,Vale do Paraíba Paulista,40872634,667000693,35023
+2012,São Paulo,Aparecida d'Oeste,São José do Rio Preto,3446063,60869.282999999996,4377
+2012,São Paulo,Apiaí,Itapetininga,43276.085999999996,489004347,24894
+2012,São Paulo,Araçariguama,Macro Metropolitana Paulista,282402518,1308235.99,17975
+2012,São Paulo,Araçatuba,Araçatuba,603472588,5423054.63,183441
+2012,São Paulo,Araçoiaba da Serra,Macro Metropolitana Paulista,43309269,414177686,28429
+2012,São Paulo,Aramina,Ribeirão Preto,5912.005999999999,94376.65400000001,5211
+2012,São Paulo,Arandu,Bauru,2139.45,66454003,6132
+2012,São Paulo,Arapeí,Vale do Paraíba Paulista,2226652,23909.53,2475
+2012,São Paulo,Araraquara,Araraquara,840488512,6928528345,212617
+2012,São Paulo,Araras,Piracicaba,524320.35,4037143.4910000004,121055
+2012,São Paulo,Arco-Íris,Marília,742.5010000000001,35517046,1890
+2012,São Paulo,Arealva,Bauru,5438.664000000001,129932.08300000001,7932
+2012,São Paulo,Areias,Vale do Paraíba Paulista,827061,29683.457000000002,3711
+2012,São Paulo,Areiópolis,Bauru,4430056,103648.51,10622
+2012,São Paulo,Ariranha,São José do Rio Preto,120039.87800000001,529137.1120000001,8709
+2012,São Paulo,Artur Nogueira,Campinas,73297.27900000001,713653.4079999999,45847
+2012,São Paulo,Arujá,Metropolitana de São Paulo,428626.73299999995,2354346.5069999998,77279
+2012,São Paulo,Aspásia,São José do Rio Preto,816816,21817.767999999996,1802
+2012,São Paulo,Assis,Assis,215116.44100000002,2242027446,96336
+2012,São Paulo,Atibaia,Macro Metropolitana Paulista,726041791,4434423036,128914
+2012,São Paulo,Auriflama,São José do Rio Preto,14625267,221603.44600000003,14307
+2012,São Paulo,Avaí,Bauru,6425036,142391895,5014
+2012,São Paulo,Avanhandava,Araçatuba,9280.921999999999,167753508,11685
+2012,São Paulo,Avaré,Bauru,158155995,1710675.9109999998,83910
+2012,São Paulo,Bady Bassitt,São José do Rio Preto,23011.828999999998,241006.46300000002,15065
+2012,São Paulo,Balbinos,Bauru,756258,23395.972999999998,4063
+2012,São Paulo,Bálsamo,São José do Rio Preto,11546593,151169552,8284
+2012,São Paulo,Bananal,Vale do Paraíba Paulista,9314.565999999999,145073596,10301
+2012,São Paulo,Barão de Antonina,Itapetininga,935.56,33422028,3165
+2012,São Paulo,Barbosa,Araçatuba,4092.0170000000003,81936745,6708
+2012,São Paulo,Bariri,Bauru,84902.57199999999,796109396,32102
+2012,São Paulo,Barra Bonita,Bauru,98179039,1013616.8929999999,35210
+2012,São Paulo,Barra do Chapéu,Itapetininga,661398,34226657,5305
+2012,São Paulo,Barra do Turvo,Litoral Sul Paulista,5854255,61573474,7672
+2012,São Paulo,Barretos,Ribeirão Preto,288116314,3083889.9669999997,113338
+2012,São Paulo,Barrinha,Ribeirão Preto,18621888,314520532,29144
+2012,São Paulo,Barueri,Metropolitana de São Paulo,10902438319,39566466395,245652
+2012,São Paulo,Bastos,Marília,21426.102000000003,580164052,20424
+2012,São Paulo,Batatais,Ribeirão Preto,124809028,1351261165,57286
+2012,São Paulo,Bauru,Bauru,1084842.6509999998,9693133046,348146
+2012,São Paulo,Bebedouro,Ribeirão Preto,207106158,1958313889,75069
+2012,São Paulo,Bento de Abreu,Araçatuba,7434235,113812.65699999999,2717
+2012,São Paulo,Bernardino de Campos,Assis,10381706,148594786,10784
+2012,São Paulo,Bertioga,Metropolitana de São Paulo,73726.79,1313178789,50304
+2012,São Paulo,Bilac,Araçatuba,4983.045999999999,122305339,7193
+2012,São Paulo,Birigui,Araçatuba,245637455,2307732187,110907
+2012,São Paulo,Biritiba-Mirim,Metropolitana de São Paulo,15017.893999999998,394948.88899999997,29168
+2012,São Paulo,Boa Esperança do Sul,Araraquara,9284409,231387.90899999999,13807
+2012,São Paulo,Bocaina,Bauru,31630029,339522576,11073
+2012,São Paulo,Bofete,Bauru,7839222,135547988,9960
+2012,São Paulo,Boituva,Itapetininga,432990311,2214642494,50420
+2012,São Paulo,Bom Jesus dos Perdões,Macro Metropolitana Paulista,42071.259000000005,347754.2,20674
+2012,São Paulo,Bom Sucesso de Itararé,Itapetininga,2796337,42019.90900000001,3623
+2012,São Paulo,Borá,Assis,6274719,72194412,807
+2012,São Paulo,Boracéia,Bauru,7027.465999999999,184688705,4348
+2012,São Paulo,Borborema,Araraquara,12323464,259663.0,14731
+2012,São Paulo,Borebi,Bauru,1296688,46868.6,2348
+2012,São Paulo,Botucatu,Bauru,395520276,3498939.5930000003,130201
+2012,São Paulo,Bragança Paulista,Macro Metropolitana Paulista,535573845,4140413.61,150023
+2012,São Paulo,Braúna,Araçatuba,2390975,61860247,5118
+2012,São Paulo,Brejo Alegre,Araçatuba,14060.45,129938.84199999999,2614
+2012,São Paulo,Brodowski,Ribeirão Preto,27181595,365486585,21707
+2012,São Paulo,Brotas,Piracicaba,46793308,494490776,21987
+2012,São Paulo,Buri,Itapetininga,7028736,216187032,18705
+2012,São Paulo,Buritama,Araçatuba,13715919,437168703,15655
+2012,São Paulo,Buritizal,Ribeirão Preto,7376294,133782.56900000002,4111
+2012,São Paulo,Cabrália Paulista,Bauru,4423755,97190886,4322
+2012,São Paulo,Cabreúva,Macro Metropolitana Paulista,498829698,2426146123,42889
+2012,São Paulo,Caçapava,Vale do Paraíba Paulista,529521799,3309843439,86054
+2012,São Paulo,Cachoeira Paulista,Vale do Paraíba Paulista,23355.482999999997,394194559,30527
+2012,São Paulo,Caconde,Campinas,1811287,271269627,18563
+2012,São Paulo,Cafelândia,Bauru,17561092,290216.19399999996,16730
+2012,São Paulo,Caiabu,Presidente Prudente,945832,44691023,4072
+2012,São Paulo,Caieiras,Metropolitana de São Paulo,307060196,2427255454,88841
+2012,São Paulo,Caiuá,Presidente Prudente,2249.5570000000002,66043866,5167
+2012,São Paulo,Cajamar,Metropolitana de São Paulo,1733255.85,7056254083,66131
+2012,São Paulo,Cajati,Litoral Sul Paulista,111555.72099999999,967638843,28243
+2012,São Paulo,Cajobi,São José do Rio Preto,3943098,95441278,9858
+2012,São Paulo,Cajuru,Ribeirão Preto,35664651,393033085,23763
+2012,São Paulo,Campina do Monte Alegre,Itapetininga,2010609,85658869,5622
+2012,São Paulo,Campinas,Campinas,9019058053,48438677483,1098630
+2012,São Paulo,Campo Limpo Paulista,Macro Metropolitana Paulista,174361.19100000002,1416799.96,75637
+2012,São Paulo,Campos do Jordão,Vale do Paraíba Paulista,49946.007000000005,807970579,48324
+2012,São Paulo,Campos Novos Paulista,Assis,2520173,93455089,4594
+2012,São Paulo,Cananéia,Litoral Sul Paulista,7784.706999999999,443179.66,12216
+2012,São Paulo,Canas,Vale do Paraíba Paulista,3832.3509999999997,84172.43400000001,4502
+2012,São Paulo,Cândido Mota,Assis,45985309,602029.05,29976
+2012,São Paulo,Cândido Rodrigues,Ribeirão Preto,2319.3,56918.93,2677
+2012,São Paulo,Canitar,Assis,9452577,97785493,4504
+2012,São Paulo,Capão Bonito,Itapetininga,26487502,532182.7220000001,46095
+2012,São Paulo,Capela do Alto,Macro Metropolitana Paulista,12377823,174376.1,18029
+2012,São Paulo,Capivari,Piracicaba,211079621,1444353585,49650
+2012,São Paulo,Caraguatatuba,Vale do Paraíba Paulista,154456749,2199999049,104150
+2012,São Paulo,Carapicuíba,Metropolitana de São Paulo,331923719,3772659.4960000003,373358
+2012,São Paulo,Cardoso,São José do Rio Preto,5281749,167427568,11836
+2012,São Paulo,Casa Branca,Campinas,32452748,483338464,28535
+2012,São Paulo,Cássia dos Coqueiros,Ribeirão Preto,421665,79930825,2599
+2012,São Paulo,Castilho,Araçatuba,29986514,424375.50399999996,18465
+2012,São Paulo,Catanduva,São José do Rio Preto,348399901,3148658893,113873
+2012,São Paulo,Catiguá,São José do Rio Preto,6249375,97587704,7214
+2012,São Paulo,Cedral,São José do Rio Preto,21738002,187653.49399999998,8165
+2012,São Paulo,Cerqueira César,Bauru,32279.793999999998,418160006,17893
+2012,São Paulo,Cerquilho,Itapetininga,191801301,1397960029,41144
+2012,São Paulo,Cesário Lange,Itapetininga,27153509,246298.21300000002,15942
+2012,São Paulo,Charqueada,Piracicaba,23276.247000000003,238245592,15395
+2012,São Paulo,Clementina,Araçatuba,4668657,85099587,7316
+2012,São Paulo,Colina,Ribeirão Preto,90293.50099999999,637479174,17478
+2012,São Paulo,Colômbia,Ribeirão Preto,16348758,216595104,6001
+2012,São Paulo,Conchal,Piracicaba,36508955,422738375,25615
+2012,São Paulo,Conchas,Bauru,16698964,253746.99300000002,16497
+2012,São Paulo,Cordeirópolis,Piracicaba,168245872,1540029.4730000002,21607
+2012,São Paulo,Coroados,Araçatuba,3923755,98968595,5362
+2012,São Paulo,Coronel Macedo,Itapetininga,-737698,55695.937000000005,4913
+2012,São Paulo,Corumbataí,Piracicaba,9158939,83597272,3887
+2012,São Paulo,Cosmópolis,Campinas,99055635,1019715928,61013
+2012,São Paulo,Cosmorama,São José do Rio Preto,24588416,213789.99899999998,7191
+2012,São Paulo,Cotia,Metropolitana de São Paulo,1766195733,8639952218,209027
+2012,São Paulo,Cravinhos,Ribeirão Preto,111118.54800000001,785898343,32187
+2012,São Paulo,Cristais Paulista,Ribeirão Preto,288843,162804857,7741
+2012,São Paulo,Cruzália,Assis,-396537,48931.77,2224
+2012,São Paulo,Cruzeiro,Vale do Paraíba Paulista,200596371,1546554.9919999999,77575
+2012,São Paulo,Cubatão,Metropolitana de São Paulo,1904619874,5994536597,120293
+2012,São Paulo,Cunha,Vale do Paraíba Paulista,4494253,139957108,21682
+2012,São Paulo,Descalvado,Araraquara,122109005,937410932,31379
+2012,São Paulo,Diadema,Metropolitana de São Paulo,2250479897,11998286445,390980
+2012,São Paulo,Dirce Reis,São José do Rio Preto,4308345,34639.28,1699
+2012,São Paulo,Divinolândia,Campinas,4997499,183613872,11086
+2012,São Paulo,Dobrada,Araraquara,3181755,64937.2,8080
+2012,São Paulo,Dois Córregos,Bauru,43828.439000000006,537004011,25100
+2012,São Paulo,Dolcinópolis,São José do Rio Preto,847898,28391741,2088
+2012,São Paulo,Dourado,Araraquara,34068331,225052.86399999997,8610
+2012,São Paulo,Dracena,Presidente Prudente,81558652,865105391,43675
+2012,São Paulo,Duartina,Bauru,10307093,156798.58,12218
+2012,São Paulo,Dumont,Ribeirão Preto,11751997,145049173,8421
+2012,São Paulo,Echaporã,Marília,2804185,94301.99,6242
+2012,São Paulo,Eldorado,Litoral Sul Paulista,5227726,213927803,14718
+2012,São Paulo,Elias Fausto,Campinas,59886197,426684376,16060
+2012,São Paulo,Elisiário,São José do Rio Preto,2278428,50655.662000000004,3202
+2012,São Paulo,Embaúba,São José do Rio Preto,799.53,33465301,2415
+2012,São Paulo,Embu das Artes,Metropolitana de São Paulo,930747959,5940470234,245148
+2012,São Paulo,Embu-Guaçu,Metropolitana de São Paulo,105615945,763569165,63653
+2012,São Paulo,Emilianópolis,Presidente Prudente,1234178,41731.736000000004,3040
+2012,São Paulo,Engenheiro Coelho,Campinas,41384676,361187939,16580
+2012,São Paulo,Espírito Santo do Pinhal,Campinas,93002789,1099923.3229999999,42123
+2012,São Paulo,Espírito Santo do Turvo,Assis,6688.706999999999,70698223,4330
+2012,São Paulo,Estrela d'Oeste,São José do Rio Preto,38363546,364296294,8201
+2012,São Paulo,Estrela do Norte,Presidente Prudente,1144223,42301.15,2663
+2012,São Paulo,Euclides da Cunha Paulista,Presidente Prudente,2655691,76326244,9491
+2012,São Paulo,Fartura,Assis,10099438,225347837,15367
+2012,São Paulo,Fernandópolis,São José do Rio Preto,119279.00300000001,1369314293,65157
+2012,São Paulo,Fernando Prestes,Ribeirão Preto,8826415,113329.06,5550
+2012,São Paulo,Fernão,Marília,569482,26509.952999999998,1583
+2012,São Paulo,Ferraz de Vasconcelos,Metropolitana de São Paulo,263107.82300000003,2474715006,172222
+2012,São Paulo,Flora Rica,Presidente Prudente,441309,28507447,1688
+2012,São Paulo,Floreal,São José do Rio Preto,1460624,51000.19,2970
+2012,São Paulo,Flórida Paulista,Presidente Prudente,6329.6990000000005,165942508,13112
+2012,São Paulo,Florínia,Assis,1582894,76388.57,2785
+2012,São Paulo,Franca,Ribeirão Preto,824738814,6650296994,323307
+2012,São Paulo,Francisco Morato,Metropolitana de São Paulo,67036333,1081424693,157603
+2012,São Paulo,Franco da Rocha,Metropolitana de São Paulo,218223.03600000002,1946857696,135150
+2012,São Paulo,Gabriel Monteiro,Araçatuba,1898255,42280.61,2706
+2012,São Paulo,Gália,Marília,2682.77,96104625,6884
+2012,São Paulo,Garça,Marília,77704658,858995031,43108
+2012,São Paulo,Gastão Vidigal,São José do Rio Preto,1639114,46790.969000000005,4285
+2012,São Paulo,Gavião Peixoto,Araraquara,10863.833999999999,87020605,4464
+2012,São Paulo,General Salgado,São José do Rio Preto,15433975,222242975,10646
+2012,São Paulo,Getulina,Bauru,4276.717000000001,136270855,10825
+2012,São Paulo,Glicério,Araçatuba,2899796,77791.73700000001,4586
+2012,São Paulo,Guaiçara,Bauru,7615665,128146543,10891
+2012,São Paulo,Guaimbê,Bauru,2086391,44989306,5458
+2012,São Paulo,Guaíra,Ribeirão Preto,107302854,1202021126,37826
+2012,São Paulo,Guapiaçu,São José do Rio Preto,18768208,288442164,18441
+2012,São Paulo,Guapiara,Itapetininga,8375826,199846955,17738
+2012,São Paulo,Guará,Ribeirão Preto,33651926,402649.43799999997,20001
+2012,São Paulo,Guaraçaí,Araçatuba,6032.736999999999,188435313,8366
+2012,São Paulo,Guaraci,São José do Rio Preto,21264263,203889197,10147
+2012,São Paulo,Guarani d'Oeste,São José do Rio Preto,590.39,24565.21,1965
+2012,São Paulo,Guarantã,Bauru,6232.548000000001,86140254,6417
+2012,São Paulo,Guararapes,Araçatuba,48854515,693231406,30862
+2012,São Paulo,Guararema,Metropolitana de São Paulo,160568584,1195354.6840000001,26439
+2012,São Paulo,Guaratinguetá,Vale do Paraíba Paulista,577540387,3427505405,113258
+2012,São Paulo,Guareí,Itapetininga,7862.869000000001,168488982,15225
+2012,São Paulo,Guariba,Ribeirão Preto,52156628,653832238,36151
+2012,São Paulo,Guarujá,Metropolitana de São Paulo,748542.0340000001,5671910821,294669
+2012,São Paulo,Guarulhos,Metropolitana de São Paulo,7103456502,42426240826,1244518
+2012,São Paulo,Guatapará,Ribeirão Preto,6571.335999999999,134741.89,7056
+2012,São Paulo,Guzolândia,São José do Rio Preto,1709385,48275427,4824
+2012,São Paulo,Herculândia,Marília,10698.08,163594525,8803
+2012,São Paulo,Holambra,Campinas,44070.804000000004,502398876,11917
+2012,São Paulo,Hortolândia,Campinas,1854781688,8259608945,198758
+2012,São Paulo,Iacanga,Bauru,23670515,289449855,10275
+2012,São Paulo,Iacri,Marília,3100.7790000000005,108268448,6365
+2012,São Paulo,Iaras,Bauru,4841073,65149011,6878
+2012,São Paulo,Ibaté,Araraquara,37890179,481903258,31380
+2012,São Paulo,Ibirá,São José do Rio Preto,8861835,156180.24300000002,11115
+2012,São Paulo,Ibirarema,Assis,8518152,126177239,6880
+2012,São Paulo,Ibitinga,Araraquara,100774513,1072960203,54146
+2012,São Paulo,Ibiúna,Macro Metropolitana Paulista,82704605,1030388305,72249
+2012,São Paulo,Icém,São José do Rio Preto,4732379,127851035,7567
+2012,São Paulo,Iepê,Assis,3066785,145525837,7685
+2012,São Paulo,Igaraçu do Tietê,Bauru,12893214,210971.79100000003,23475
+2012,São Paulo,Igarapava,Ribeirão Preto,51612.905999999995,658897339,28259
+2012,São Paulo,Igaratá,Vale do Paraíba Paulista,11612025,121705936,8913
+2012,São Paulo,Iguape,Litoral Sul Paulista,21068.242000000002,1123169.4170000001,29055
+2012,São Paulo,Ilhabela,Vale do Paraíba Paulista,34169459,1156934.4679999999,29308
+2012,São Paulo,Ilha Comprida,Litoral Sul Paulista,12095343,1399076.0780000002,9376
+2012,São Paulo,Ilha Solteira,Araçatuba,26107.597999999998,440603.24700000003,25226
+2012,São Paulo,Indaiatuba,Campinas,2032390199,9224057.42,209859
+2012,São Paulo,Indiana,Presidente Prudente,1693.1170000000002,43869.399000000005,4809
+2012,São Paulo,Indiaporã,São José do Rio Preto,1489.12,57774195,3880
+2012,São Paulo,Inúbia Paulista,Presidente Prudente,11147107,97555523,3678
+2012,São Paulo,Ipaussu,Assis,20641.54,265446044,13831
+2012,São Paulo,Iperó,Macro Metropolitana Paulista,54052.58,363624552,29798
+2012,São Paulo,Ipeúna,Piracicaba,24986036,202777298,6270
+2012,São Paulo,Ipiguá,São José do Rio Preto,4220.1,50937.99,4613
+2012,São Paulo,Iporanga,Itapetininga,793015,28763.27,4260
+2012,São Paulo,Ipuã,Ribeirão Preto,15111601,273213.62899999996,14492
+2012,São Paulo,Iracemápolis,Piracicaba,70435.70599999999,489413532,20705
+2012,São Paulo,Irapuã,São José do Rio Preto,2008829,88320.42199999999,7369
+2012,São Paulo,Irapuru,Presidente Prudente,2069.05,66967379,7840
+2012,São Paulo,Itaberá,Itapetininga,-2653.23,297216447,17699
+2012,São Paulo,Itaí,Bauru,21773123,387808102,24457
+2012,São Paulo,Itajobi,São José do Rio Preto,14528.893999999998,299094396,14606
+2012,São Paulo,Itaju,Bauru,2340.9139999999998,52710443,3338
+2012,São Paulo,Itanhaém,Litoral Sul Paulista,72380656,1099045012,89332
+2012,São Paulo,Itaóca,Itapetininga,1097005,25739199,3229
+2012,São Paulo,Itapecerica da Serra,Metropolitana de São Paulo,303680738,2635127425,156077
+2012,São Paulo,Itapetininga,Itapetininga,346509.06799999997,3124119.9639999997,147219
+2012,São Paulo,Itapeva,Itapetininga,110621133,1498082775,88491
+2012,São Paulo,Itapevi,Metropolitana de São Paulo,1198888.0729999999,7088168765,206558
+2012,São Paulo,Itapira,Campinas,320332097,2401818524,69317
+2012,São Paulo,Itapirapuã Paulista,Itapetininga,534966,25048.442000000003,3926
+2012,São Paulo,Itápolis,Araraquara,111662901,1174685.5359999998,40399
+2012,São Paulo,Itaporanga,Itapetininga,4251624,139873.68099999998,14579
+2012,São Paulo,Itapuí,Bauru,58161773,422143037,12446
+2012,São Paulo,Itapura,Araçatuba,1688376,67150.2,4436
+2012,São Paulo,Itaquaquecetuba,Metropolitana de São Paulo,526056.83,4071384541,329144
+2012,São Paulo,Itararé,Itapetininga,40491.922999999995,574374.2370000001,48143
+2012,São Paulo,Itariri,Litoral Sul Paulista,5699626,129829284,15752
+2012,São Paulo,Itatiba,Macro Metropolitana Paulista,653362456,3921298278,104533
+2012,São Paulo,Itatinga,Bauru,14050.45,195148145,18446
+2012,São Paulo,Itirapina,Piracicaba,42942245,278330.93100000004,15930
+2012,São Paulo,Itirapuã,Ribeirão Preto,1235548,69487482,5990
+2012,São Paulo,Itobi,Campinas,2066306,79038086,7559
+2012,São Paulo,Itu,Macro Metropolitana Paulista,1109936308,6110210376,156983
+2012,São Paulo,Itupeva,Macro Metropolitana Paulista,569042324,2772567043,47682
+2012,São Paulo,Ituverava,Ribeirão Preto,70730268,857081527,39062
+2012,São Paulo,Jaborandi,Ribeirão Preto,3376045,107168225,6618
+2012,São Paulo,Jaboticabal,Ribeirão Preto,206647548,2014067815,72305
+2012,São Paulo,Jacareí,Vale do Paraíba Paulista,1515098135,7652040785,214223
+2012,São Paulo,Jaci,São José do Rio Preto,34090483,299934442,5890
+2012,São Paulo,Jacupiranga,Litoral Sul Paulista,15769038,283796.12100000004,17234
+2012,São Paulo,Jaguariúna,Campinas,1148629486,4166854042,46533
+2012,São Paulo,Jales,São José do Rio Preto,72425506,917210813,47137
+2012,São Paulo,Jambeiro,Vale do Paraíba Paulista,46288.609000000004,252750.93600000002,5554
+2012,São Paulo,Jandira,Metropolitana de São Paulo,478414831,2414876859,110842
+2012,São Paulo,Jardinópolis,Ribeirão Preto,58468205,685562.64,38708
+2012,São Paulo,Jarinu,Macro Metropolitana Paulista,94436.98199999999,706948436,24875
+2012,São Paulo,Jaú,Bauru,374525542,3219076348,133900
+2012,São Paulo,Jeriquara,Ribeirão Preto,-29636,59612878,3142
+2012,São Paulo,Joanópolis,Macro Metropolitana Paulista,6587.576999999999,128146278,11974
+2012,São Paulo,João Ramalho,Presidente Prudente,2123315,104636618,4197
+2012,São Paulo,José Bonifácio,São José do Rio Preto,71212.36,874485233,33375
+2012,São Paulo,Júlio Mesquita,Bauru,1268062,34741.67,4470
+2012,São Paulo,Jumirim,Piracicaba,7996.75,60654833,2889
+2012,São Paulo,Jundiaí,Macro Metropolitana Paulista,5841495158,30683516054,377183
+2012,São Paulo,Junqueirópolis,Presidente Prudente,30894949,354857.35799999995,18986
+2012,São Paulo,Juquiá,Litoral Sul Paulista,11595.028999999999,242681544,19055
+2012,São Paulo,Juquitiba,Metropolitana de São Paulo,35758535,353697165,29081
+2012,São Paulo,Lagoinha,Vale do Paraíba Paulista,1558.12,40199284,4824
+2012,São Paulo,Laranjal Paulista,Itapetininga,88470493,663833299,25721
+2012,São Paulo,Lavínia,Araçatuba,2996074,115262.02900000001,9330
+2012,São Paulo,Lavrinhas,Vale do Paraíba Paulista,11047248,91437.54,6678
+2012,São Paulo,Leme,Piracicaba,266996109,2098799491,93417
+2012,São Paulo,Lençóis Paulista,Bauru,222969.84699999998,1930841624,62393
+2012,São Paulo,Limeira,Piracicaba,1414119.0119999999,9419353887,280096
+2012,São Paulo,Lindóia,Campinas,7742642,95438.76199999999,6912
+2012,São Paulo,Lins,Bauru,272964184,2619277725,72260
+2012,São Paulo,Lorena,Vale do Paraíba Paulista,177175891,1558600965,83224
+2012,São Paulo,Lourdes,Araçatuba,523045,29359295,2147
+2012,São Paulo,Louveira,Macro Metropolitana Paulista,1600058247,7946164.477000001,39122
+2012,São Paulo,Lucélia,Presidente Prudente,25197568,304058408,20119
+2012,São Paulo,Lucianópolis,Bauru,884569,28272.077999999998,2264
+2012,São Paulo,Luís Antônio,Ribeirão Preto,133109.31900000002,1035843078,11910
+2012,São Paulo,Luiziânia,Araçatuba,1332737,53616.984000000004,5145
+2012,São Paulo,Lupércio,Marília,295.89,48802832,4372
+2012,São Paulo,Lutécia,Assis,497.30800000000005,59167151,2687
+2012,São Paulo,Macatuba,Bauru,22844.21,318564309,16336
+2012,São Paulo,Macaubal,São José do Rio Preto,7227.1140000000005,128757.19099999999,7705
+2012,São Paulo,Macedônia,São José do Rio Preto,2361285,50064372,3650
+2012,São Paulo,Magda,São José do Rio Preto,2226719,62800.217000000004,3167
+2012,São Paulo,Mairinque,Macro Metropolitana Paulista,306721.73699999996,1559832.9919999999,43714
+2012,São Paulo,Mairiporã,Metropolitana de São Paulo,172592.50100000002,1297546986,84104
+2012,São Paulo,Manduri,Assis,7270776,99198601,9101
+2012,São Paulo,Marabá Paulista,Presidente Prudente,3895276,107756.84300000001,4981
+2012,São Paulo,Maracaí,Assis,33985.9,390161935,13382
+2012,São Paulo,Marapoama,São José do Rio Preto,11613882,101583974,2693
+2012,São Paulo,Mariápolis,Presidente Prudente,619355,36982025,3926
+2012,São Paulo,Marília,Marília,626047936,5770066971,219664
+2012,São Paulo,Marinópolis,São José do Rio Preto,459019,22167.398999999998,2101
+2012,São Paulo,Martinópolis,Presidente Prudente,23104714,377795.24600000004,24502
+2012,São Paulo,Matão,Araraquara,390355.61,2953976.2660000003,77546
+2012,São Paulo,Mauá,Metropolitana de São Paulo,1712561.02,9295359845,425169
+2012,São Paulo,Mendonça,São José do Rio Preto,15952415,166472066,4774
+2012,São Paulo,Meridiano,São José do Rio Preto,13877.133999999998,123658.02699999999,3830
+2012,São Paulo,Mesópolis,São José do Rio Preto,560.4169999999999,41363075,1880
+2012,São Paulo,Miguelópolis,Ribeirão Preto,8786178,620247.4870000001,20668
+2012,São Paulo,Mineiros do Tietê,Bauru,7790.67,121664.53300000001,12133
+2012,São Paulo,Miracatu,Litoral Sul Paulista,20460264,315617.38899999997,20322
+2012,São Paulo,Mira Estrela,São José do Rio Preto,1110.8980000000001,33967347,2854
+2012,São Paulo,Mirandópolis,Araçatuba,37168.937999999995,464531295,27717
+2012,São Paulo,Mirante do Paranapanema,Presidente Prudente,25603.168999999998,278193857,17187
+2012,São Paulo,Mirassol,São José do Rio Preto,145490128,1254672.1840000001,54618
+2012,São Paulo,Mirassolândia,São José do Rio Preto,1192139,60944.615999999995,4379
+2012,São Paulo,Mococa,Campinas,129761.44,1414142061,66399
+2012,São Paulo,Mogi das Cruzes,Metropolitana de São Paulo,1636317321,11146729537,396468
+2012,São Paulo,Mogi Guaçu,Campinas,631131001,4432443693,139211
+2012,São Paulo,Mogi Mirim,Campinas,1773379.4109999998,11927707976,87266
+2012,São Paulo,Mombuca,Piracicaba,1901.0729999999999,55500.445999999996,3291
+2012,São Paulo,Monções,São José do Rio Preto,7605866,75600837,2144
+2012,São Paulo,Mongaguá,Litoral Sul Paulista,32547.398999999998,576832024,47984
+2012,São Paulo,Monte Alegre do Sul,Campinas,12969133,151647865,7278
+2012,São Paulo,Monte Alto,Ribeirão Preto,181603073,1308173.7040000001,47100
+2012,São Paulo,Monte Aprazível,São José do Rio Preto,42854568,519521.85799999995,22250
+2012,São Paulo,Monte Azul Paulista,Ribeirão Preto,21793.06,322911.44800000003,18838
+2012,São Paulo,Monte Castelo,Presidente Prudente,2739321,68883594,4060
+2012,São Paulo,Monteiro Lobato,Vale do Paraíba Paulista,2678.1059999999998,42623.09099999999,4197
+2012,São Paulo,Monte Mor,Campinas,550398476,2622765.7569999998,50702
+2012,São Paulo,Morro Agudo,Ribeirão Preto,59903.46599999999,916567052,29673
+2012,São Paulo,Morungaba,Macro Metropolitana Paulista,58354732,374509905,12050
+2012,São Paulo,Motuca,Araraquara,1959729,62921333,4354
+2012,São Paulo,Murutinga do Sul,Araçatuba,1780.3,49271.049000000006,4219
+2012,São Paulo,Nantes,Assis,279645,71109741,2774
+2012,São Paulo,Narandiba,Presidente Prudente,6377.0740000000005,158578663,4371
+2012,São Paulo,Natividade da Serra,Vale do Paraíba Paulista,2240.5370000000003,48498057,6637
+2012,São Paulo,Nazaré Paulista,Macro Metropolitana Paulista,29272.137000000002,240960.14899999998,16717
+2012,São Paulo,Neves Paulista,São José do Rio Preto,9982535,142098761,8752
+2012,São Paulo,Nhandeara,São José do Rio Preto,14723.278999999999,235632711,10806
+2012,São Paulo,Nipoã,São José do Rio Preto,3479.7259999999997,74410265,4427
+2012,São Paulo,Nova Aliança,São José do Rio Preto,3464612,82223106,6061
+2012,São Paulo,Nova Campina,Itapetininga,22184369,300814595,8700
+2012,São Paulo,Nova Canaã Paulista,São José do Rio Preto,457.79,23425214,2059
+2012,São Paulo,Nova Castilho,São José do Rio Preto,273251,28663461,1146
+2012,São Paulo,Nova Europa,Araraquara,22532.593999999997,262697172,9601
+2012,São Paulo,Nova Granada,São José do Rio Preto,12895861,261771384,19507
+2012,São Paulo,Nova Guataporanga,Presidente Prudente,844424,21043201,2191
+2012,São Paulo,Nova Independência,Araçatuba,3819.8940000000002,68430711,3220
+2012,São Paulo,Novais,São José do Rio Preto,960967,52472758,4799
+2012,São Paulo,Nova Luzitânia,São José do Rio Preto,1120761,32011755,3546
+2012,São Paulo,Nova Odessa,Campinas,316241981,1985035506,52627
+2012,São Paulo,Novo Horizonte,São José do Rio Preto,44610224,722201413,37222
+2012,São Paulo,Nuporanga,Ribeirão Preto,29462805,381129989,6894
+2012,São Paulo,Ocauçu,Marília,2270595,57061761,4163
+2012,São Paulo,Óleo,Assis,-52.56,39170.998999999996,2625
+2012,São Paulo,Olímpia,São José do Rio Preto,177892633,1398155.1840000001,50630
+2012,São Paulo,Onda Verde,São José do Rio Preto,13589.6,160511539,3956
+2012,São Paulo,Oriente,Marília,5122492,71326.51299999999,6141
+2012,São Paulo,Orindiúva,São José do Rio Preto,38007571,339104.16799999995,5904
+2012,São Paulo,Orlândia,Ribeirão Preto,182617723,1308964947,40352
+2012,São Paulo,Osasco,Metropolitana de São Paulo,10532264.01,50059467.831999995,668877
+2012,São Paulo,Oscar Bressane,Marília,1823.05,53763167,2535
+2012,São Paulo,Osvaldo Cruz,Presidente Prudente,69594417,754065355,31109
+2012,São Paulo,Ourinhos,Assis,224844.12699999998,2252330346,104420
+2012,São Paulo,Ouroeste,São José do Rio Preto,19421095,240223515,8725
+2012,São Paulo,Ouro Verde,Presidente Prudente,4229972,93386339,7899
+2012,São Paulo,Pacaembu,Presidente Prudente,6925.263000000001,135934038,13333
+2012,São Paulo,Palestina,São José do Rio Preto,11066.53,213745277,11346
+2012,São Paulo,Palmares Paulista,São José do Rio Preto,4547.842000000001,92503.93199999999,11312
+2012,São Paulo,Palmeira d'Oeste,São José do Rio Preto,3651.3059999999996,122299.84300000001,9473
+2012,São Paulo,Palmital,Assis,35002.52,434055894,21260
+2012,São Paulo,Panorama,Presidente Prudente,15011998,220618355,14725
+2012,São Paulo,Paraguaçu Paulista,Assis,71205714,914104415,42680
+2012,São Paulo,Paraibuna,Vale do Paraíba Paulista,20598858,220576.84399999998,17446
+2012,São Paulo,Paraíso,São José do Rio Preto,14512.363000000001,169722759,5969
+2012,São Paulo,Paranapanema,Bauru,12309.791000000001,317106464,18155
+2012,São Paulo,Paranapuã,São José do Rio Preto,1448.8020000000001,55484824,3843
+2012,São Paulo,Parapuã,Presidente Prudente,12510.703000000001,227981038,10805
+2012,São Paulo,Pardinho,Bauru,16718975,175857.60100000002,5711
+2012,São Paulo,Pariquera-Açu,Litoral Sul Paulista,26499.38,347537.23299999995,18567
+2012,São Paulo,Parisi,São José do Rio Preto,498189,25971779,2045
+2012,São Paulo,Patrocínio Paulista,Ribeirão Preto,51960.11,550472.08,13240
+2012,São Paulo,Paulicéia,Presidente Prudente,14427341,161818649,6496
+2012,São Paulo,Paulínia,Campinas,2952978.72,8461729318,86800
+2012,São Paulo,Paulistânia,Bauru,816429,23478.3,1779
+2012,São Paulo,Paulo de Faria,São José do Rio Preto,3457.73,156267.32,8607
+2012,São Paulo,Pederneiras,Bauru,269638.11699999997,1635552467,42235
+2012,São Paulo,Pedra Bela,Campinas,1678.2910000000002,51630.0,5806
+2012,São Paulo,Pedranópolis,São José do Rio Preto,803367,37341.861000000004,2532
+2012,São Paulo,Pedregulho,Ribeirão Preto,3393.6,825229955,15807
+2012,São Paulo,Pedreira,Campinas,129213526,896423196,42516
+2012,São Paulo,Pedrinhas Paulista,Assis,648.4630000000001,62441915,2952
+2012,São Paulo,Pedro de Toledo,Litoral Sul Paulista,3502.58,100445.74699999999,10358
+2012,São Paulo,Penápolis,Araçatuba,97728.12,1160047668,59096
+2012,São Paulo,Pereira Barreto,Araçatuba,42984648,507540042,24953
+2012,São Paulo,Pereiras,Itapetininga,10603.231000000002,124684935,7640
+2012,São Paulo,Peruíbe,Litoral Sul Paulista,56058.212999999996,1105187.6509999998,61030
+2012,São Paulo,Piacatu,Araçatuba,2506.7960000000003,65754069,5387
+2012,São Paulo,Piedade,Macro Metropolitana Paulista,62354003,730969193,52447
+2012,São Paulo,Pilar do Sul,Macro Metropolitana Paulista,17548273,334665381,26778
+2012,São Paulo,Pindamonhangaba,Vale do Paraíba Paulista,1007376.9890000001,5145267671,150162
+2012,São Paulo,Pindorama,São José do Rio Preto,16667.15,227703974,15331
+2012,São Paulo,Pinhalzinho,Campinas,9840.639000000001,163935561,13425
+2012,São Paulo,Piquerobi,Presidente Prudente,1976565,44326997,3546
+2012,São Paulo,Piquete,Vale do Paraíba Paulista,7808.534000000001,110664836,13942
+2012,São Paulo,Piracaia,Macro Metropolitana Paulista,25357165,316118445,25384
+2012,São Paulo,Piracicaba,Piracicaba,2861726.8660000004,16052653.03,369919
+2012,São Paulo,Piraju,Assis,37584492,483077.08700000006,28563
+2012,São Paulo,Pirajuí,Bauru,19851.27,285387281,23098
+2012,São Paulo,Pirangi,Ribeirão Preto,9915301,161490978,10712
+2012,São Paulo,Pirapora do Bom Jesus,Metropolitana de São Paulo,19635.86,424248.68100000004,16238
+2012,São Paulo,Pirapozinho,Presidente Prudente,50957.189000000006,539979.7289999999,25086
+2012,São Paulo,Pirassununga,Campinas,277754.75899999996,1903237245,70869
+2012,São Paulo,Piratininga,Bauru,6422.5419999999995,131171145,12297
+2012,São Paulo,Pitangueiras,Ribeirão Preto,60560069,659742.58,35934
+2012,São Paulo,Planalto,São José do Rio Preto,15590685,187031612,4583
+2012,São Paulo,Platina,Assis,673296,53957653,3242
+2012,São Paulo,Poá,Metropolitana de São Paulo,1564067.9230000002,3890601.5,107556
+2012,São Paulo,Poloni,São José do Rio Preto,6604891,98297.65199999999,5489
+2012,São Paulo,Pompéia,Marília,163646702,920844048,20235
+2012,São Paulo,Pongaí,Bauru,1525.26,47510291,3449
+2012,São Paulo,Pontal,Ribeirão Preto,64612623,795807672,41840
+2012,São Paulo,Pontalinda,São José do Rio Preto,1516338,48879145,4155
+2012,São Paulo,Pontes Gestal,São José do Rio Preto,18351198,166785718,2515
+2012,São Paulo,Populina,São José do Rio Preto,1240894,71967438,4189
+2012,São Paulo,Porangaba,Itapetininga,7030684,96213.89300000001,8579
+2012,São Paulo,Porto Feliz,Macro Metropolitana Paulista,122275.17,1129622.5320000001,49404
+2012,São Paulo,Porto Ferreira,Campinas,219768188,1406294727,51999
+2012,São Paulo,Potim,Vale do Paraíba Paulista,8958167,140421309,20272
+2012,São Paulo,Potirendaba,São José do Rio Preto,41945.39,400370.44200000004,15720
+2012,São Paulo,Pracinha,Presidente Prudente,392976,18098.993000000002,3074
+2012,São Paulo,Pradópolis,Ribeirão Preto,53784426,539660841,18052
+2012,São Paulo,Praia Grande,Metropolitana de São Paulo,299994411,4312526864,272390
+2012,São Paulo,Pratânia,Bauru,2932369,83356.42,4697
+2012,São Paulo,Presidente Alves,Bauru,1308448,52777.577000000005,4094
+2012,São Paulo,Presidente Bernardes,Presidente Prudente,9291354,178558298,13406
+2012,São Paulo,Presidente Epitácio,Presidente Prudente,52181.740999999995,669186918,41624
+2012,São Paulo,Presidente Prudente,Presidente Prudente,619240677,5605428079,210393
+2012,São Paulo,Presidente Venceslau,Presidente Prudente,39819166,521832164,37996
+2012,São Paulo,Promissão,Bauru,176846092,1639353846,36364
+2012,São Paulo,Quadra,Itapetininga,3180.2659999999996,56972642,3325
+2012,São Paulo,Quatá,Assis,27218134,327260378,12972
+2012,São Paulo,Queiroz,Marília,7577069,134397671,2905
+2012,São Paulo,Queluz,Vale do Paraíba Paulista,14065538,150639792,11641
+2012,São Paulo,Quintana,Marília,6379975,98320.22,6089
+2012,São Paulo,Rafard,Piracicaba,22042.012000000002,212972948,8651
+2012,São Paulo,Rancharia,Presidente Prudente,61106.172999999995,831018.39,28809
+2012,São Paulo,Redenção da Serra,Vale do Paraíba Paulista,1368.0320000000002,35413.193999999996,3847
+2012,São Paulo,Regente Feijó,Presidente Prudente,65464903,472656158,18720
+2012,São Paulo,Reginópolis,Bauru,3440377,78277182,7713
+2012,São Paulo,Registro,Litoral Sul Paulista,104701291,1207471991,54338
+2012,São Paulo,Restinga,Ribeirão Preto,3727.77,121745.35800000001,6739
+2012,São Paulo,Ribeira,Itapetininga,903438,25910.29,3336
+2012,São Paulo,Ribeirão Bonito,Araraquara,8904721,198555514,12270
+2012,São Paulo,Ribeirão Branco,Itapetininga,3603215,183648175,17822
+2012,São Paulo,Ribeirão Corrente,Ribeirão Preto,-831663,77194738,4333
+2012,São Paulo,Ribeirão do Sul,Assis,2258.5789999999997,72949.07400000001,4439
+2012,São Paulo,Ribeirão dos Índios,Presidente Prudente,534.3009999999999,28422.456000000002,2182
+2012,São Paulo,Ribeirão Grande,Itapetininga,20792588,233949792,7427
+2012,São Paulo,Ribeirão Pires,Metropolitana de São Paulo,260360.41,2212394.1859999998,114361
+2012,São Paulo,Ribeirão Preto,Ribeirão Preto,2722787852,21854359365,619746
+2012,São Paulo,Riversul,Itapetininga,800903,39165107,6008
+2012,São Paulo,Rifaina,Ribeirão Preto,2507106,51171.14,3453
+2012,São Paulo,Rincão,Araraquara,7460459,161241229,10427
+2012,São Paulo,Rinópolis,Presidente Prudente,6775.0019999999995,129059811,9887
+2012,São Paulo,Rio Claro,Piracicaba,1043224609,7244122.96,188977
+2012,São Paulo,Rio das Pedras,Piracicaba,166580304,882330.0340000001,30409
+2012,São Paulo,Rio Grande da Serra,Metropolitana de São Paulo,44745198,451991.42,45014
+2012,São Paulo,Riolândia,São José do Rio Preto,3623272,135088.66199999998,10880
+2012,São Paulo,Rosana,Presidente Prudente,11529736,1034335.9140000001,19006
+2012,São Paulo,Roseira,Vale do Paraíba Paulista,24923.297000000002,197179.8,9754
+2012,São Paulo,Rubiácea,Araçatuba,962315,63898.3,2789
+2012,São Paulo,Rubinéia,São José do Rio Preto,2090827,43471.825999999994,2900
+2012,São Paulo,Sabino,Bauru,2764482,77497995,5258
+2012,São Paulo,Sagres,Presidente Prudente,706.2719999999999,32979.31,2389
+2012,São Paulo,Sales,São José do Rio Preto,2648222,81337072,5586
+2012,São Paulo,Sales Oliveira,Ribeirão Preto,14974.978000000001,246503234,10756
+2012,São Paulo,Salesópolis,Metropolitana de São Paulo,6905635,145900159,15828
+2012,São Paulo,Salmourão,Presidente Prudente,1311755,61904.657999999996,4881
+2012,São Paulo,Saltinho,Piracicaba,18825513,151463547,7250
+2012,São Paulo,Salto,Macro Metropolitana Paulista,784117199,4385520.313999999,107382
+2012,São Paulo,Salto de Pirapora,Macro Metropolitana Paulista,132335.52599999998,1109475.48,40897
+2012,São Paulo,Salto Grande,Assis,9519875,165632261,8839
+2012,São Paulo,Sandovalina,Presidente Prudente,4943604,309813284,3792
+2012,São Paulo,Santa Adélia,São José do Rio Preto,10252765,230166.27,14467
+2012,São Paulo,Santa Albertina,São José do Rio Preto,7011.201999999999,99624.86300000001,5744
+2012,São Paulo,Santa Bárbara d'Oeste,Campinas,633439334,4363159987,181509
+2012,São Paulo,Santa Branca,Vale do Paraíba Paulista,14089536,201504.43,13877
+2012,São Paulo,Santa Clara d'Oeste,São José do Rio Preto,760378,40004134,2079
+2012,São Paulo,Santa Cruz da Conceição,Piracicaba,9151778,116971.93,4074
+2012,São Paulo,Santa Cruz da Esperança,Ribeirão Preto,447.94300000000004,31055.92,1977
+2012,São Paulo,Santa Cruz das Palmeiras,Campinas,17886.71,329116797,30593
+2012,São Paulo,Santa Cruz do Rio Pardo,Assis,116846.92300000001,1246707.38,44375
+2012,São Paulo,Santa Ernestina,Ribeirão Preto,2802.7490000000003,62068.64,5542
+2012,São Paulo,Santa Fé do Sul,São José do Rio Preto,64990.08,729027505,29651
+2012,São Paulo,Santa Gertrudes,Piracicaba,166071.83,1220042443,22499
+2012,São Paulo,Santa Isabel,Metropolitana de São Paulo,160134763,1173062043,51467
+2012,São Paulo,Santa Lúcia,Araraquara,2024.03,94147925,8308
+2012,São Paulo,Santa Maria da Serra,Piracicaba,6751.0380000000005,118722.26,5525
+2012,São Paulo,Santa Mercedes,Presidente Prudente,1551247,51743806,2836
+2012,São Paulo,Santana da Ponte Pensa,São José do Rio Preto,915.1160000000001,21844.872000000003,1603
+2012,São Paulo,Santana de Parnaíba,Metropolitana de São Paulo,826701.4870000001,6211289071,113945
+2012,São Paulo,Santa Rita d'Oeste,São José do Rio Preto,1329119,39777.373999999996,2521
+2012,São Paulo,Santa Rita do Passa Quatro,Ribeirão Preto,52689318,566580501,26530
+2012,São Paulo,Santa Rosa de Viterbo,Ribeirão Preto,95655225,662271214,24229
+2012,São Paulo,Santa Salete,São José do Rio Preto,1183476,17652.08,1458
+2012,São Paulo,Santo Anastácio,Presidente Prudente,23993708,282804.50800000003,20434
+2012,São Paulo,Santo André,Metropolitana de São Paulo,4086310505,23842987589,680496
+2012,São Paulo,Santo Antônio da Alegria,Ribeirão Preto,3378.9429999999998,118115913,6386
+2012,São Paulo,Santo Antônio de Posse,Campinas,47654.070999999996,530210.8420000001,21032
+2012,São Paulo,Santo Antônio do Aracanguá,Araçatuba,8430831,181188.03100000002,7732
+2012,São Paulo,Santo Antônio do Jardim,Campinas,5647243,98684069,5912
+2012,São Paulo,Santo Antônio do Pinhal,Vale do Paraíba Paulista,2765744,64638413,6510
+2012,São Paulo,Santo Expedito,Presidente Prudente,511663,23506158,2845
+2012,São Paulo,Santópolis do Aguapeí,Araçatuba,2488627,50988722,4347
+2012,São Paulo,Santos,Metropolitana de São Paulo,2553875225,16850211706,419614
+2012,São Paulo,São Bento do Sapucaí,Vale do Paraíba Paulista,5598219,138422718,10486
+2012,São Paulo,São Bernardo do Campo,Metropolitana de São Paulo,10572609162,45300599.166999996,774886
+2012,São Paulo,São Caetano do Sul,Metropolitana de São Paulo,4105994495,15094571625,150638
+2012,São Paulo,São Carlos,Araraquara,1037807854,8166704.83,226322
+2012,São Paulo,São Francisco,São José do Rio Preto,1134888,29183.977000000003,2783
+2012,São Paulo,São João da Boa Vista,Campinas,241147.53,2121413523,84584
+2012,São Paulo,São João das Duas Pontes,São José do Rio Preto,579484,28540.417999999998,2552
+2012,São Paulo,São João de Iracema,São José do Rio Preto,581398,31379.627999999997,1797
+2012,São Paulo,São João do Pau d'Alho,Presidente Prudente,586.3580000000001,37793949,2092
+2012,São Paulo,São Joaquim da Barra,Ribeirão Preto,143919464,1144441288,47256
+2012,São Paulo,São José da Bela Vista,Ribeirão Preto,2210723,103463838,8456
+2012,São Paulo,São José do Barreiro,Vale do Paraíba Paulista,977565,35792.05,4068
+2012,São Paulo,São José do Rio Pardo,Campinas,130081226,1370344493,52176
+2012,São Paulo,São José do Rio Preto,São José do Rio Preto,1441827611,12464503645,415769
+2012,São Paulo,São José dos Campos,Vale do Paraíba Paulista,4650722461,26584748512,643603
+2012,São Paulo,São Lourenço da Serra,Metropolitana de São Paulo,22651501,183508931,14241
+2012,São Paulo,São Luís do Paraitinga,Vale do Paraíba Paulista,7376326,105338791,10393
+2012,São Paulo,São Manuel,Bauru,71948392,859217627,38614
+2012,São Paulo,São Miguel Arcanjo,Macro Metropolitana Paulista,15276.178999999998,420464758,31549
+2012,São Paulo,São Paulo,Metropolitana de São Paulo,101430123.72600001,538877121413,11376685
+2012,São Paulo,São Pedro,Piracicaba,29637.067000000003,471889778,32231
+2012,São Paulo,São Pedro do Turvo,Assis,4518.2429999999995,120346.13900000001,7245
+2012,São Paulo,São Roque,Macro Metropolitana Paulista,262112051,1807338045,80661
+2012,São Paulo,São Sebastião,Vale do Paraíba Paulista,2075708.5259999998,4550425657,76344
+2012,São Paulo,São Sebastião da Grama,Campinas,5850.906999999999,218158.32100000003,12046
+2012,São Paulo,São Simão,Ribeirão Preto,32936149,319313.38899999997,14448
+2012,São Paulo,São Vicente,Metropolitana de São Paulo,295013.84,3944432186,336809
+2012,São Paulo,Sarapuí,Macro Metropolitana Paulista,7276.210999999999,110315.76400000001,9212
+2012,São Paulo,Sarutaiá,Assis,285276,30862.572999999997,3605
+2012,São Paulo,Sebastianópolis do Sul,São José do Rio Preto,23719722,197371516,3105
+2012,São Paulo,Serra Azul,Ribeirão Preto,3330.6859999999997,115291.44,11832
+2012,São Paulo,Serrana,Ribeirão Preto,34728957,509438151,39826
+2012,São Paulo,Serra Negra,Campinas,29128009,470469092,26770
+2012,São Paulo,Sertãozinho,Ribeirão Preto,554491723,4194460133,112401
+2012,São Paulo,Sete Barras,Litoral Sul Paulista,4983303,228233128,12898
+2012,São Paulo,Severínia,São José do Rio Preto,25252991,242033548,15788
+2012,São Paulo,Silveiras,Vale do Paraíba Paulista,1721.1729999999998,42419677,5855
+2012,São Paulo,Socorro,Campinas,39222206,530287.9820000001,37288
+2012,São Paulo,Sorocaba,Macro Metropolitana Paulista,5074721.63,25969688.841999996,600692
+2012,São Paulo,Sud Mennucci,Araçatuba,9621593,175998.13199999998,7446
+2012,São Paulo,Sumaré,Campinas,3347355983,11180730369,246247
+2012,São Paulo,Suzano,Metropolitana de São Paulo,1360864.7019999998,7748116626,267583
+2012,São Paulo,Suzanápolis,Araçatuba,7193.35,83248269,3473
+2012,São Paulo,Tabapuã,São José do Rio Preto,8952596,188388633,11495
+2012,São Paulo,Tabatinga,Araraquara,7820565,154037606,14943
+2012,São Paulo,Taboão da Serra,Metropolitana de São Paulo,1045965483,6434869344,251608
+2012,São Paulo,Taciba,Presidente Prudente,1600747,97986981,5789
+2012,São Paulo,Taguaí,Assis,9833829,147423033,11336
+2012,São Paulo,Taiaçu,Ribeirão Preto,2256.4829999999997,59789735,5936
+2012,São Paulo,Taiúva,Ribeirão Preto,4185.07,71634.97099999999,5439
+2012,São Paulo,Tambaú,Campinas,34171096,425547479,22429
+2012,São Paulo,Tanabi,São José do Rio Preto,36269502,483487.79,24277
+2012,São Paulo,Tapiraí,Macro Metropolitana Paulista,4591291,89398.58,7928
+2012,São Paulo,Tapiratiba,Campinas,13314.306999999999,222374.96600000001,12707
+2012,São Paulo,Taquaral,Ribeirão Preto,954324,22430.046000000002,2727
+2012,São Paulo,Taquaritinga,Ribeirão Preto,83401743,940700.5290000001,54279
+2012,São Paulo,Taquarituba,Itapetininga,23427.532000000003,358298.48600000003,22338
+2012,São Paulo,Taquarivaí,Itapetininga,1484793,77170364,5254
+2012,São Paulo,Tarabai,Presidente Prudente,3522671,68842651,6731
+2012,São Paulo,Tarumã,Assis,119875.31800000001,697193.2990000001,13209
+2012,São Paulo,Tatuí,Itapetininga,409120.49600000004,2987680.9310000003,109425
+2012,São Paulo,Taubaté,Vale do Paraíba Paulista,2733757.1339999996,13814209848,283899
+2012,São Paulo,Tejupá,Assis,37817,44838.952000000005,4730
+2012,São Paulo,Teodoro Sampaio,Presidente Prudente,31486841,415749.6,21595
+2012,São Paulo,Terra Roxa,Ribeirão Preto,2608265,101079399,8619
+2012,São Paulo,Tietê,Piracicaba,187700995,1417808.1430000002,37609
+2012,São Paulo,Timburi,Assis,724008,26890037,2634
+2012,São Paulo,Torre de Pedra,Itapetininga,551632,16886147,2271
+2012,São Paulo,Torrinha,Piracicaba,7633.383000000001,146138581,9405
+2012,São Paulo,Trabiju,Araraquara,1111343,29125.93,1569
+2012,São Paulo,Tremembé,Vale do Paraíba Paulista,42637.859000000004,513507534,41915
+2012,São Paulo,Três Fronteiras,São José do Rio Preto,8134854,73816114,5468
+2012,São Paulo,Tuiuti,Macro Metropolitana Paulista,4901062,96792778,6078
+2012,São Paulo,Tupã,Marília,110377.33099999999,1331559572,63498
+2012,São Paulo,Tupi Paulista,Presidente Prudente,11917.601999999999,208069521,14418
+2012,São Paulo,Turiúba,Araçatuba,699452,30880.593999999997,1936
+2012,São Paulo,Turmalina,São José do Rio Preto,604934,31136615,1920
+2012,São Paulo,Ubarana,São José do Rio Preto,9049345,293715474,5451
+2012,São Paulo,Ubatuba,Vale do Paraíba Paulista,68080358,1198118585,80604
+2012,São Paulo,Ubirajara,Bauru,2299481,48148.44,4468
+2012,São Paulo,Uchoa,São José do Rio Preto,21303.537999999997,226615423,9537
+2012,São Paulo,União Paulista,São José do Rio Preto,651.1990000000001,36901.672999999995,1636
+2012,São Paulo,Urânia,São José do Rio Preto,10137447,139934424,8838
+2012,São Paulo,Uru,Bauru,444148,19764915,1228
+2012,São Paulo,Urupês,São José do Rio Preto,10997839,208123.46300000002,12848
+2012,São Paulo,Valentim Gentil,São José do Rio Preto,25954963,251126776,11404
+2012,São Paulo,Valinhos,Campinas,793981187,4520986.438999999,110390
+2012,São Paulo,Valparaíso,Araçatuba,58256767,573780.2289999999,23181
+2012,São Paulo,Vargem,Macro Metropolitana Paulista,4221645,75775351,9077
+2012,São Paulo,Vargem Grande do Sul,Campinas,56378.039000000004,606763544,39714
+2012,São Paulo,Vargem Grande Paulista,Metropolitana de São Paulo,182636.43399999998,1277720932,44555
+2012,São Paulo,Várzea Paulista,Macro Metropolitana Paulista,304372251,2144553.04,109247
+2012,São Paulo,Vera Cruz,Marília,2895255,104042.85800000001,10722
+2012,São Paulo,Vinhedo,Campinas,1461079821,5739624201,66087
+2012,São Paulo,Viradouro,Ribeirão Preto,12778.43,220540.76,17499
+2012,São Paulo,Vista Alegre do Alto,Ribeirão Preto,29299.64,264068928,7208
+2012,São Paulo,Vitória Brasil,São José do Rio Preto,415.82800000000003,19387991,1747
+2012,São Paulo,Votorantim,Macro Metropolitana Paulista,333986243,2482293494,110755
+2012,São Paulo,Votuporanga,São José do Rio Preto,201417.19100000002,1949656.4630000002,86059
+2012,São Paulo,Zacarias,São José do Rio Preto,1694.4470000000001,62806913,2394
+2012,São Paulo,Chavantes,Assis,8172.04,151311911,12102
+2012,São Paulo,Estiva Gerbi,Campinas,15815883,186179655,10224
